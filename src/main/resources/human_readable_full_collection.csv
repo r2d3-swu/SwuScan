@@ -1,0 +1,511 @@
+CardName,Set,CardNumber,VariantType,Rarity,Count,IsFoil
+Director Krennic,SOR,001,Normal,Common,1,False
+Iden Versio,SOR,002,Normal,Rare,1,False
+Chewbacca,SOR,003,Normal,Common,1,False
+Chirrut Imwe,SOR,004,Normal,Rare,1,False
+Luke Skywalker,SOR,005,Normal,Special,1,False
+Emperor Palpatine,SOR,006,Normal,Rare,1,False
+Grand Moff Tarkin,SOR,007,Normal,Common,1,False
+Hera Syndulla,SOR,008,Normal,Rare,1,False
+Leia Organa,SOR,009,Normal,Common,1,False
+Darth Vader,SOR,010,Normal,Special,1,False
+Grand Inquisitor,SOR,011,Normal,Rare,1,False
+IG-88,SOR,012,Normal,Common,1,False
+Cassian Andor,SOR,013,Normal,Rare,1,False
+Sabine Wren,SOR,014,Normal,Common,1,False
+Boba Fett,SOR,015,Normal,Common,1,False
+Grand Admiral Thrawn,SOR,016,Normal,Rare,1,False
+Han Solo,SOR,017,Normal,Rare,1,False
+Jyn Erso,SOR,018,Normal,Common,1,False
+Security Complex,SOR,019,Normal,Rare,1,False
+Capital City,SOR,020,Normal,Common,1,False
+Dagobah Swamp,SOR,021,Normal,Common,1,False
+Energy Conversion Lab,SOR,022,Normal,Rare,1,False
+Command Center,SOR,023,Normal,Common,1,False
+Echo Base,SOR,024,Normal,Common,1,False
+Tarkintown,SOR,025,Normal,Rare,1,False
+Catacombs of Cadera,SOR,026,Normal,Common,1,False
+Kestro City,SOR,027,Normal,Common,1,False
+Jedha City,SOR,028,Normal,Rare,1,False
+Administrator's Tower,SOR,029,Normal,Common,1,False
+Chopper Base,SOR,030,Normal,Common,1,False
+Inferno Four,SOR,031,Normal,Uncommon,1,False
+Scout Bike Pursuer,SOR,032,Normal,Common,1,False
+Death Trooper,SOR,033,Normal,Common,1,False
+Del Meeko,SOR,034,Normal,Rare,1,False
+Lieutenant Childsen,SOR,035,Normal,Uncommon,1,False
+Gideon Hask,SOR,036,Normal,Rare,1,False
+Academy Defense Walker,SOR,037,Normal,Common,1,False
+Count Dooku,SOR,038,Normal,Rare,1,False
+AT-AT Suppressor,SOR,039,Normal,Uncommon,1,False
+Avenger,SOR,040,Normal,Legendary,1,False
+Power of the Dark Side,SOR,041,Normal,Uncommon,1,False
+Search Your Feelings,SOR,042,Normal,Rare,1,False
+Superlaser Blast,SOR,043,Normal,Legendary,1,False
+Restored ARC-170,SOR,044,Normal,Common,1,False
+Yoda,SOR,045,Normal,Uncommon,1,False
+Consular Security Force,SOR,046,Normal,Common,1,False
+Kanan Jarrus,SOR,047,Normal,Uncommon,1,False
+Vigilant Honor Guards,SOR,048,Normal,Common,1,False
+Obi-Wan Kenobi,SOR,049,Normal,Rare,1,False
+The Ghost,SOR,050,Normal,Uncommon,1,False
+Luke Skywalker,SOR,051,Normal,Legendary,1,False
+Redemption,SOR,052,Normal,Rare,1,False
+Luke's Lightsaber,SOR,053,Normal,Special,1,False
+Jedi Lightsaber,SOR,054,Normal,Rare,1,False
+The Force Is With Me,SOR,055,Normal,Uncommon,1,False
+Bendu,SOR,056,Normal,Rare,1,False
+Protector,SOR,057,Normal,Uncommon,1,False
+Vigilance,SOR,058,Normal,Legendary,1,False
+2-1B Surgical Droid,SOR,059,Normal,Common,1,False
+Distant Patroller,SOR,060,Normal,Uncommon,1,False
+Guardian of the Whills,SOR,061,Normal,Common,1,False
+Regional Governor,SOR,062,Normal,Rare,1,False
+Cloud City Wing Guard,SOR,063,Normal,Common,1,False
+Wilderness Fighter,SOR,064,Normal,Common,1,False
+Baze Malbus,SOR,065,Normal,Uncommon,1,False
+System Patrol Craft,SOR,066,Normal,Common,1,False
+Rugged Survivors,SOR,067,Normal,Common,1,False
+Cargo Juggernaut,SOR,068,Normal,Common,1,False
+Resilient,SOR,069,Normal,Common,1,False
+Devotion,SOR,070,Normal,Uncommon,1,False
+Electrostaff,SOR,071,Normal,Rare,1,False
+Entrenched,SOR,072,Normal,Uncommon,1,False
+Moment of Peace,SOR,073,Normal,Common,1,False
+Repair,SOR,074,Normal,Common,1,False
+It Binds All Things,SOR,075,Normal,Rare,1,False
+Make an Opening,SOR,076,Normal,Common,1,False
+Takedown,SOR,077,Normal,Uncommon,1,False
+Vanquish,SOR,078,Normal,Common,1,False
+Admiral Piett,SOR,079,Normal,Uncommon,1,False
+General Tagge,SOR,080,Normal,Uncommon,1,False
+Seasoned Shoretrooper,SOR,081,Normal,Common,1,False
+Emperor's Royal Guard,SOR,082,Normal,Rare,1,False
+Superlaser Technician,SOR,083,Normal,Common,1,False
+Grand Moff Tarkin,SOR,084,Normal,Special,1,False
+Rukh,SOR,085,Normal,Rare,1,False
+Gladiator Star Destroyer,SOR,086,Normal,Common,1,False
+Darth Vader,SOR,087,Normal,Legendary,1,False
+Blizzard Assault AT-AT,SOR,088,Normal,Uncommon,1,False
+Relentless,SOR,089,Normal,Rare,1,False
+Devastator,SOR,090,Normal,Legendary,1,False
+The Emperor's Legion,SOR,091,Normal,Rare,1,False
+Overwhelming Barrage,SOR,092,Normal,Uncommon,1,False
+Alliance Dispatcher,SOR,093,Normal,Common,1,False
+Bail Organa,SOR,094,Normal,Rare,1,False
+Battlefield Marine,SOR,095,Normal,Common,1,False
+Mon Mothma,SOR,096,Normal,Uncommon,1,False
+Admiral Ackbar,SOR,097,Normal,Rare,1,False
+Echo Base Defender,SOR,098,Normal,Common,1,False
+Bright Hope,SOR,099,Normal,Uncommon,1,False
+Wedge Antilles,SOR,100,Normal,Rare,1,False
+Rogue Squadron Skirmisher,SOR,101,Normal,Uncommon,1,False
+Home One,SOR,102,Normal,Legendary,1,False
+Rebel Assault,SOR,103,Normal,Uncommon,1,False
+U-Wing Reinforcement,SOR,104,Normal,Rare,1,False
+General Krell,SOR,105,Normal,Rare,1,False
+Attack Pattern Delta,SOR,106,Normal,Uncommon,1,False
+Command,SOR,107,Normal,Legendary,1,False
+Vanguard Infantry,SOR,108,Normal,Common,1,False
+Colonel Yularen,SOR,109,Normal,Uncommon,1,False
+Frontline Shuttle,SOR,110,Normal,Rare,1,False
+Patrolling V-Wing,SOR,111,Normal,Common,1,False
+Consortium StarViper,SOR,112,Normal,Common,1,False
+Homestead Militia,SOR,113,Normal,Common,1,False
+Escort Skiff,SOR,114,Normal,Common,1,False
+Agent Kallus,SOR,115,Normal,Rare,1,False
+Steadfast Battalion,SOR,116,Normal,Common,1,False
+Mercenary Company,SOR,117,Normal,Common,1,False
+97th Legion,SOR,118,Normal,Uncommon,1,False
+Reinforcement Walker,SOR,119,Normal,Uncommon,1,False
+Academy Training,SOR,120,Normal,Common,1,False
+Hardpoint Heavy Blaster,SOR,121,Normal,Uncommon,1,False
+Traitorous,SOR,122,Normal,Rare,1,False
+Recruit,SOR,123,Normal,Common,1,False
+Tactical Advantage,SOR,124,Normal,Common,1,False
+Prepare for Takeoff,SOR,125,Normal,Uncommon,1,False
+Resupply,SOR,126,Normal,Common,1,False
+Strike True,SOR,127,Normal,Common,1,False
+Death Star Stormtrooper,SOR,128,Normal,Common,1,False
+Admiral Ozzel,SOR,129,Normal,Uncommon,1,False
+First Legion Snowtrooper,SOR,130,Normal,Common,1,False
+Fifth Brother,SOR,131,Normal,Uncommon,1,False
+Imperial Interceptor,SOR,132,Normal,Common,1,False
+Seventh Sister,SOR,133,Normal,Rare,1,False
+Ruthless Raider,SOR,134,Normal,Uncommon,1,False
+Emperor Palpatine,SOR,135,Normal,Rare,1,False
+Vader's Lightsaber,SOR,136,Normal,Special,1,False
+Fallen Lightsaber,SOR,137,Normal,Rare,1,False
+Force Lightning,SOR,138,Normal,Legendary,1,False
+Force Choke,SOR,139,Normal,Uncommon,1,False
+SpecForce Soldier,SOR,140,Normal,Common,1,False
+Green Squadron A-Wing,SOR,141,Normal,Common,1,False
+Sabine Wren,SOR,142,Normal,Uncommon,1,False
+Fighters For Freedom,SOR,143,Normal,Uncommon,1,False
+Red Three,SOR,144,Normal,Rare,1,False
+K-2SO,SOR,145,Normal,Rare,1,False
+Zeb Orrelios,SOR,146,Normal,Uncommon,1,False
+Black One,SOR,147,Normal,Legendary,1,False
+Guerilla Attack Pod,SOR,148,Normal,Common,1,False
+Mace Windu,SOR,149,Normal,Legendary,1,False
+Heroic Sacrifice,SOR,150,Normal,Rare,1,False
+Karabast,SOR,151,Normal,Uncommon,1,False
+For A Cause I Believe In,SOR,152,Normal,Rare,1,False
+Saw Gerrera,SOR,153,Normal,Rare,1,False
+Rallying Cry,SOR,154,Normal,Uncommon,1,False
+Aggression,SOR,155,Normal,Legendary,1,False
+Benthic Two Tubes,SOR,156,Normal,Uncommon,1,False
+Cantina Braggart,SOR,157,Normal,Common,1,False
+Jedha Agitator,SOR,158,Normal,Common,1,False
+Partisan Insurgent,SOR,159,Normal,Common,1,False
+Wolffe,SOR,160,Normal,Rare,1,False
+Ardent Sympathizer,SOR,161,Normal,Common,1,False
+Disabling Fang Fighter,SOR,162,Normal,Common,1,False
+Star Wing Scout,SOR,163,Normal,Uncommon,1,False
+Wampa,SOR,164,Normal,Common,1,False
+Occupier Siege Tank,SOR,165,Normal,Common,1,False
+Infiltrator's Skill,SOR,166,Normal,Common,1,False
+Force Throw,SOR,167,Normal,Uncommon,1,False
+Precision Fire,SOR,168,Normal,Common,1,False
+Keep Fighting,SOR,169,Normal,Common,1,False
+Power Failure,SOR,170,Normal,Uncommon,1,False
+Mission Briefing,SOR,171,Normal,Common,1,False
+Open Fire,SOR,172,Normal,Common,1,False
+Bombing Run,SOR,173,Normal,Rare,1,False
+Smoke and Cinders,SOR,174,Normal,Rare,1,False
+Forced Surrender,SOR,175,Normal,Uncommon,1,False
+ISB Agent,SOR,176,Normal,Common,1,False
+Bib Fortuna,SOR,177,Normal,Uncommon,1,False
+Cartel Spacer,SOR,178,Normal,Uncommon,1,False
+Boba Fett,SOR,179,Normal,Legendary,1,False
+Seventh Fleet Defender,SOR,180,Normal,Common,1,False
+Jabba the Hutt,SOR,181,Normal,Rare,1,False
+Bossk,SOR,182,Normal,Uncommon,1,False
+Bounty Hunter Crew,SOR,183,Normal,Common,1,False
+Fett's Firespray,SOR,184,Normal,Rare,1,False
+Chimaera,SOR,185,Normal,Rare,1,False
+No Good to Me Dead,SOR,186,Normal,Uncommon,1,False
+I Had No Choice,SOR,187,Normal,Rare,1,False
+Chopper,SOR,188,Normal,Rare,1,False
+Leia Organa,SOR,189,Normal,Special,1,False
+Lothal Insurgent,SOR,190,Normal,Common,1,False
+Vanguard Ace,SOR,191,Normal,Uncommon,1,False
+Ezra Bridger,SOR,192,Normal,Uncommon,1,False
+Millennium Falcon,SOR,193,Normal,Legendary,1,False
+Rogue Operative,SOR,194,Normal,Common,1,False
+Auzituck Liberator Gunship,SOR,195,Normal,Common,1,False
+Chewbacca,SOR,196,Normal,Uncommon,1,False
+Lando Calrissian,SOR,197,Normal,Rare,1,False
+Han Solo,SOR,198,Normal,Rare,1,False
+Bamboozle,SOR,199,Normal,Uncommon,1,False
+Spark of Rebellion,SOR,200,Normal,Rare,1,False
+Bodhi Rook,SOR,201,Normal,Rare,1,False
+Cantina Bouncer,SOR,202,Normal,Uncommon,1,False
+Cunning,SOR,203,Normal,Legendary,1,False
+Greedo,SOR,204,Normal,Uncommon,1,False
+Jawa Scavenger,SOR,205,Normal,Common,1,False
+Mining Guild TIE Fighter,SOR,206,Normal,Common,1,False
+Crafty Smuggler,SOR,207,Normal,Common,1,False
+Outer Rim Headhunter,SOR,208,Normal,Common,1,False
+Pirated Starfighter,SOR,209,Normal,Uncommon,1,False
+Swoop Racer,SOR,210,Normal,Common,1,False
+Gamorrean Guards,SOR,211,Normal,Common,1,False
+Strafing Gunship,SOR,212,Normal,Rare,1,False
+Syndicate Lackeys,SOR,213,Normal,Common,1,False
+Smuggling Compartment,SOR,214,Normal,Uncommon,1,False
+Snapshot Reflexes,SOR,215,Normal,Common,1,False
+Disarm,SOR,216,Normal,Common,1,False
+Shoot First,SOR,217,Normal,Uncommon,1,False
+Asteroid Sanctuary,SOR,218,Normal,Common,1,False
+Sneak Attack,SOR,219,Normal,Rare,1,False
+Surprise Strike,SOR,220,Normal,Common,1,False
+Outmaneuver,SOR,221,Normal,Uncommon,1,False
+Waylay,SOR,222,Normal,Common,1,False
+Don't Get Cocky,SOR,223,Normal,Rare,1,False
+Change of Heart,SOR,224,Normal,Legendary,1,False
+TIE ln Fighter,SOR,225,Normal,Common,1,False
+Admiral Motti,SOR,226,Normal,Special,1,False
+Snowtrooper Lieutenant,SOR,227,Normal,Common,1,False
+Viper Probe Droid,SOR,228,Normal,Common,1,False
+Cell Block Guard,SOR,229,Normal,Common,1,False
+General Veers,SOR,230,Normal,Uncommon,1,False
+TIE Advanced,SOR,231,Normal,Uncommon,1,False
+AT-ST,SOR,232,Normal,Common,1,False
+I Am Your Father,SOR,233,Normal,Special,1,False
+Maximum Firepower,SOR,234,Normal,Common,1,False
+Galactic Ambition,SOR,235,Normal,Rare,1,False
+R2-D2,SOR,236,Normal,Special,1,False
+Alliance X-Wing,SOR,237,Normal,Common,1,False
+C-3PO,SOR,238,Normal,Special,1,False
+Rebel Pathfinder,SOR,239,Normal,Common,1,False
+Fleet Lieutenant,SOR,240,Normal,Common,1,False
+Wing Leader,SOR,241,Normal,Uncommon,1,False
+General Dodonna,SOR,242,Normal,Uncommon,1,False
+Regional Sympathizers,SOR,243,Normal,Common,1,False
+Snowspeeder,SOR,244,Normal,Common,1,False
+Medal Ceremony,SOR,245,Normal,Common,1,False
+You're My Only Hope,SOR,246,Normal,Rare,1,False
+Underworld Thug,SOR,247,Normal,Common,1,False
+Volunteer Soldier,SOR,248,Normal,Common,1,False
+Frontier AT-RT,SOR,249,Normal,Common,1,False
+Corellian Freighter,SOR,250,Normal,Common,1,False
+Confiscate,SOR,251,Normal,Common,1,False
+Restock,SOR,252,Normal,Common,1,False
+Director Krennic,SOR,253,Showcase,Common,1,True
+Iden Versio,SOR,254,Showcase,Rare,1,True
+Chewbacca,SOR,255,Showcase,Common,1,True
+Chirrut Imwe,SOR,256,Showcase,Rare,1,True
+Emperor Palpatine,SOR,257,Showcase,Rare,1,True
+Grand Moff Tarkin,SOR,258,Showcase,Common,1,True
+Hera Syndulla,SOR,259,Showcase,Rare,1,True
+Leia Organa,SOR,260,Showcase,Common,1,True
+Grand Inquisitor,SOR,261,Showcase,Rare,1,True
+IG-88,SOR,262,Showcase,Common,1,True
+Cassian Andor,SOR,263,Showcase,Rare,1,True
+Sabine Wren,SOR,264,Showcase,Common,1,True
+Boba Fett,SOR,265,Showcase,Common,1,True
+Grand Admiral Thrawn,SOR,266,Showcase,Rare,1,True
+Han Solo,SOR,267,Showcase,Rare,1,True
+Jyn Erso,SOR,268,Showcase,Common,1,True
+Director Krennic,SOR,269,Hyperspace,Common,1,False
+Iden Versio,SOR,270,Hyperspace,Rare,1,False
+Chewbacca,SOR,271,Hyperspace,Common,1,False
+Chirrut Îmwe,SOR,272,Hyperspace,Rare,1,False
+Emperor Palpatine,SOR,273,Hyperspace,Rare,1,False
+Grand Moff Tarkin,SOR,274,Hyperspace,Common,1,False
+Hera Syndulla,SOR,275,Hyperspace,Rare,1,False
+Leia Organa,SOR,276,Hyperspace,Common,1,False
+Grand Inquisitor,SOR,277,Hyperspace,Rare,1,False
+IG-88,SOR,278,Hyperspace,Common,1,False
+Cassian Andor,SOR,279,Hyperspace,Rare,1,False
+Sabine Wren,SOR,280,Hyperspace,Common,1,False
+Boba Fett,SOR,281,Hyperspace,Common,1,False
+Grand Admiral Thrawn,SOR,282,Hyperspace,Rare,1,False
+Han Solo,SOR,283,Hyperspace,Rare,1,False
+Jyn Erso,SOR,284,Hyperspace,Common,1,False
+Security Complex,SOR,285,Hyperspace,Rare,1,False
+Capital City,SOR,286,Hyperspace,Common,1,False
+Dagobah Swamp,SOR,287,Hyperspace,Common,1,False
+Energy Conversion Lab,SOR,288,Hyperspace,Rare,1,False
+Command Center,SOR,289,Hyperspace,Common,1,False
+Echo Base,SOR,290,Hyperspace,Common,1,False
+Tarkintown,SOR,291,Hyperspace,Rare,1,False
+Catacombs of Cadera,SOR,292,Hyperspace,Common,1,False
+Kestro City,SOR,293,Hyperspace,Common,1,False
+Jedha City,SOR,294,Hyperspace,Rare,1,False
+Administrator's Tower,SOR,295,Hyperspace,Common,1,False
+Chopper Base,SOR,296,Hyperspace,Common,1,False
+Inferno Four,SOR,297,Hyperspace,Uncommon,1,False
+Scout Bike Pursuer,SOR,298,Hyperspace,Common,1,False
+Death Trooper,SOR,299,Hyperspace,Common,1,False
+Del Meeko,SOR,300,Hyperspace,Rare,1,False
+Lieutenant Childsen,SOR,301,Hyperspace,Uncommon,1,False
+Gideon Hask,SOR,302,Hyperspace,Rare,1,False
+Academy Defense Walker,SOR,303,Hyperspace,Common,1,False
+Count Dooku,SOR,304,Hyperspace,Rare,1,False
+AT-AT Suppressor,SOR,305,Hyperspace,Uncommon,1,False
+Avenger,SOR,306,Hyperspace,Legendary,1,False
+Power of the Dark Side,SOR,307,Hyperspace,Uncommon,1,False
+Search Your Feelings,SOR,308,Hyperspace,Rare,1,False
+Superlaser Blast,SOR,309,Hyperspace,Legendary,1,False
+Restored ARC-170,SOR,310,Hyperspace,Common,1,False
+Yoda,SOR,311,Hyperspace,Uncommon,1,False
+Consular Security Force,SOR,312,Hyperspace,Common,1,False
+Kanan Jarrus,SOR,313,Hyperspace,Uncommon,1,False
+Vigilant Honor Guards,SOR,314,Hyperspace,Common,1,False
+Obi-Wan Kenobi,SOR,315,Hyperspace,Rare,1,False
+The Ghost,SOR,316,Hyperspace,Uncommon,1,False
+Luke Skywalker,SOR,317,Hyperspace,Legendary,1,False
+Redemption,SOR,318,Hyperspace,Rare,1,False
+Jedi Lightsaber,SOR,319,Hyperspace,Rare,1,False
+The Force Is With Me,SOR,320,Hyperspace,Uncommon,1,False
+Bendu,SOR,321,Hyperspace,Rare,1,False
+Protector,SOR,322,Hyperspace,Uncommon,1,False
+Vigilance,SOR,323,Hyperspace,Legendary,1,False
+2-1B Surgical Droid,SOR,324,Hyperspace,Common,1,False
+Distant Patroller,SOR,325,Hyperspace,Uncommon,1,False
+Guardian of the Whills,SOR,326,Hyperspace,Common,1,False
+Regional Governor,SOR,327,Hyperspace,Rare,1,False
+Cloud City Wing Guard,SOR,328,Hyperspace,Common,1,False
+Wilderness Fighter,SOR,329,Hyperspace,Common,1,False
+Baze Malbus,SOR,330,Hyperspace,Uncommon,1,False
+System Patrol Craft,SOR,331,Hyperspace,Common,1,False
+Rugged Survivors,SOR,332,Hyperspace,Common,1,False
+Cargo Juggernaut,SOR,333,Hyperspace,Common,1,False
+Resilient,SOR,334,Hyperspace,Common,1,False
+Devotion,SOR,335,Hyperspace,Uncommon,1,False
+Electrostaff,SOR,336,Hyperspace,Rare,1,False
+Entrenched,SOR,337,Hyperspace,Uncommon,1,False
+Moment of Peace,SOR,338,Hyperspace,Common,1,False
+Repair,SOR,339,Hyperspace,Common,1,False
+It Binds All Things,SOR,340,Hyperspace,Rare,1,False
+Make an Opening,SOR,341,Hyperspace,Common,1,False
+Takedown,SOR,342,Hyperspace,Uncommon,1,False
+Vanquish,SOR,343,Hyperspace,Common,1,False
+Admiral Piett,SOR,344,Hyperspace,Uncommon,1,False
+General Tagge,SOR,345,Hyperspace,Uncommon,1,False
+Seasoned Shoretrooper,SOR,346,Hyperspace,Common,1,False
+Emperor's Royal Guard,SOR,347,Hyperspace,Rare,1,False
+Superlaser Technician,SOR,348,Hyperspace,Common,1,False
+Rukh,SOR,349,Hyperspace,Rare,1,False
+Gladiator Star Destroyer,SOR,350,Hyperspace,Common,1,False
+Darth Vader,SOR,351,Hyperspace,Legendary,1,False
+Blizzard Assault AT-AT,SOR,352,Hyperspace,Uncommon,1,False
+Relentless,SOR,353,Hyperspace,Rare,1,False
+Devastator,SOR,354,Hyperspace,Legendary,1,False
+The Emperor's Legion,SOR,355,Hyperspace,Rare,1,False
+Overwhelming Barrage,SOR,356,Hyperspace,Uncommon,1,False
+Alliance Dispatcher,SOR,357,Hyperspace,Common,1,False
+Bail Organa,SOR,358,Hyperspace,Rare,1,False
+Battlefield Marine,SOR,359,Hyperspace,Common,1,False
+Mon Mothma,SOR,360,Hyperspace,Uncommon,1,False
+Admiral Ackbar,SOR,361,Hyperspace,Rare,1,False
+Echo Base Defender,SOR,362,Hyperspace,Common,1,False
+Bright Hope,SOR,363,Hyperspace,Uncommon,1,False
+Wedge Antilles,SOR,364,Hyperspace,Rare,1,False
+Rogue Squadron Skirmisher,SOR,365,Hyperspace,Uncommon,1,False
+Home One,SOR,366,Hyperspace,Legendary,1,False
+Rebel Assault,SOR,367,Hyperspace,Uncommon,1,False
+U-Wing Reinforcement,SOR,368,Hyperspace,Rare,1,False
+General Krell,SOR,369,Hyperspace,Rare,1,False
+Attack Pattern Delta,SOR,370,Hyperspace,Uncommon,1,False
+Command,SOR,371,Hyperspace,Legendary,1,False
+Vanguard Infantry,SOR,372,Hyperspace,Common,1,False
+Colonel Yularen,SOR,373,Hyperspace,Uncommon,1,False
+Frontline Shuttle,SOR,374,Hyperspace,Rare,1,False
+Patrolling V-Wing,SOR,375,Hyperspace,Common,1,False
+Consortium StarViper,SOR,376,Hyperspace,Common,1,False
+Homestead Militia,SOR,377,Hyperspace,Common,1,False
+Escort Skiff,SOR,378,Hyperspace,Common,1,False
+Agent Kallus,SOR,379,Hyperspace,Rare,1,False
+Steadfast Battalion,SOR,380,Hyperspace,Common,1,False
+Mercenary Company,SOR,381,Hyperspace,Common,1,False
+97th Legion,SOR,382,Hyperspace,Uncommon,1,False
+Reinforcement Walker,SOR,383,Hyperspace,Uncommon,1,False
+Academy Training,SOR,384,Hyperspace,Common,1,False
+Hardpoint Heavy Blaster,SOR,385,Hyperspace,Uncommon,1,False
+Traitorous,SOR,386,Hyperspace,Rare,1,False
+Recruit,SOR,387,Hyperspace,Common,1,False
+Tactical Advantage,SOR,388,Hyperspace,Common,1,False
+Prepare for Takeoff,SOR,389,Hyperspace,Uncommon,1,False
+Resupply,SOR,390,Hyperspace,Common,1,False
+Strike True,SOR,391,Hyperspace,Common,1,False
+Death Star Stormtrooper,SOR,392,Hyperspace,Common,1,False
+Admiral Ozzel,SOR,393,Hyperspace,Uncommon,1,False
+First Legion Snowtrooper,SOR,394,Hyperspace,Common,1,False
+Fifth Brother,SOR,395,Hyperspace,Uncommon,1,False
+Imperial Interceptor,SOR,396,Hyperspace,Common,1,False
+Seventh Sister,SOR,397,Hyperspace,Rare,1,False
+Ruthless Raider,SOR,398,Hyperspace,Uncommon,1,False
+Emperor Palpatine,SOR,399,Hyperspace,Rare,1,False
+Fallen Lightsaber,SOR,400,Hyperspace,Rare,1,False
+Force Lightning,SOR,401,Hyperspace,Legendary,1,False
+Force Choke,SOR,402,Hyperspace,Uncommon,1,False
+SpecForce Soldier,SOR,403,Hyperspace,Common,1,False
+Green Squadron A-Wing,SOR,404,Hyperspace,Common,1,False
+Sabine Wren,SOR,405,Hyperspace,Uncommon,1,False
+Fighters For Freedom,SOR,406,Hyperspace,Uncommon,1,False
+Red Three,SOR,407,Hyperspace,Rare,1,False
+K-2SO,SOR,408,Hyperspace,Rare,1,False
+Zeb Orrelios,SOR,409,Hyperspace,Uncommon,1,False
+Black One,SOR,410,Hyperspace,Legendary,1,False
+Guerilla Attack Pod,SOR,411,Hyperspace,Common,1,False
+Mace Windu,SOR,412,Hyperspace,Legendary,1,False
+Heroic Sacrifice,SOR,413,Hyperspace,Rare,1,False
+Karabast,SOR,414,Hyperspace,Uncommon,1,False
+For A Cause I Believe In,SOR,415,Hyperspace,Rare,1,False
+Saw Gerrera,SOR,416,Hyperspace,Rare,1,False
+Rallying Cry,SOR,417,Hyperspace,Uncommon,1,False
+Aggression,SOR,418,Hyperspace,Legendary,1,False
+Benthic Two Tubes,SOR,419,Hyperspace,Uncommon,1,False
+Cantina Braggart,SOR,420,Hyperspace,Common,1,False
+Jedha Agitator,SOR,421,Hyperspace,Common,1,False
+Partisan Insurgent,SOR,422,Hyperspace,Common,1,False
+Wolffe,SOR,423,Hyperspace,Rare,1,False
+Ardent Sympathizer,SOR,424,Hyperspace,Common,1,False
+Disabling Fang Fighter,SOR,425,Hyperspace,Common,1,False
+Star Wing Scout,SOR,426,Hyperspace,Uncommon,1,False
+Wampa,SOR,427,Hyperspace,Common,1,False
+Occupier Siege Tank,SOR,428,Hyperspace,Common,1,False
+Infiltrator's Skill,SOR,429,Hyperspace,Common,1,False
+Force Throw,SOR,430,Hyperspace,Uncommon,1,False
+Precision Fire,SOR,431,Hyperspace,Common,1,False
+Keep Fighting,SOR,432,Hyperspace,Common,1,False
+Power Failure,SOR,433,Hyperspace,Uncommon,1,False
+Mission Briefing,SOR,434,Hyperspace,Common,1,False
+Open Fire,SOR,435,Hyperspace,Common,1,False
+Bombing Run,SOR,436,Hyperspace,Rare,1,False
+Smoke and Cinders,SOR,437,Hyperspace,Rare,1,False
+Forced Surrender,SOR,438,Hyperspace,Uncommon,1,False
+ISB Agent,SOR,439,Hyperspace,Common,1,False
+Bib Fortuna,SOR,440,Hyperspace,Uncommon,1,False
+Cartel Spacer,SOR,441,Hyperspace,Uncommon,1,False
+Boba Fett,SOR,442,Hyperspace,Legendary,1,False
+Seventh Fleet Defender,SOR,443,Hyperspace,Common,1,False
+Jabba the Hutt,SOR,444,Hyperspace,Rare,1,False
+Bossk,SOR,445,Hyperspace,Uncommon,1,False
+Bounty Hunter Crew,SOR,446,Hyperspace,Common,1,False
+Fett's Firespray,SOR,447,Hyperspace,Rare,1,False
+Chimaera,SOR,448,Hyperspace,Rare,1,False
+No Good to Me Dead,SOR,449,Hyperspace,Uncommon,1,False
+I Had No Choice,SOR,450,Hyperspace,Rare,1,False
+Chopper,SOR,451,Hyperspace,Rare,1,False
+Lothal Insurgent,SOR,452,Hyperspace,Common,1,False
+Vanguard Ace,SOR,453,Hyperspace,Uncommon,1,False
+Ezra Bridger,SOR,454,Hyperspace,Uncommon,1,False
+Millennium Falcon,SOR,455,Hyperspace,Legendary,1,False
+Rogue Operative,SOR,456,Hyperspace,Common,1,False
+Auzituck Liberator Gunship,SOR,457,Hyperspace,Common,1,False
+Chewbacca,SOR,458,Hyperspace,Uncommon,1,False
+Lando Calrissian,SOR,459,Hyperspace,Rare,1,False
+Han Solo,SOR,460,Hyperspace,Rare,1,False
+Bamboozle,SOR,461,Hyperspace,Uncommon,1,False
+Spark of Rebellion,SOR,462,Hyperspace,Rare,1,False
+Bodhi Rook,SOR,463,Hyperspace,Rare,1,False
+Cantina Bouncer,SOR,464,Hyperspace,Uncommon,1,False
+Cunning,SOR,465,Hyperspace,Legendary,1,False
+Greedo,SOR,466,Hyperspace,Uncommon,1,False
+Jawa Scavenger,SOR,467,Hyperspace,Common,1,False
+Mining Guild TIE Fighter,SOR,468,Hyperspace,Common,1,False
+Crafty Smuggler,SOR,469,Hyperspace,Common,1,False
+Outer Rim Headhunter,SOR,470,Hyperspace,Common,1,False
+Pirated Starfighter,SOR,471,Hyperspace,Uncommon,1,False
+Swoop Racer,SOR,472,Hyperspace,Common,1,False
+Gamorrean Guards,SOR,473,Hyperspace,Common,1,False
+Strafing Gunship,SOR,474,Hyperspace,Rare,1,False
+Syndicate Lackeys,SOR,475,Hyperspace,Common,1,False
+Smuggling Compartment,SOR,476,Hyperspace,Uncommon,1,False
+Snapshot Reflexes,SOR,477,Hyperspace,Common,1,False
+Disarm,SOR,478,Hyperspace,Common,1,False
+Shoot First,SOR,479,Hyperspace,Uncommon,1,False
+Asteroid Sanctuary,SOR,480,Hyperspace,Common,1,False
+Sneak Attack,SOR,481,Hyperspace,Rare,1,False
+Surprise Strike,SOR,482,Hyperspace,Common,1,False
+Outmaneuver,SOR,483,Hyperspace,Uncommon,1,False
+Waylay,SOR,484,Hyperspace,Common,1,False
+Don't Get Cocky,SOR,485,Hyperspace,Rare,1,False
+Change of Heart,SOR,486,Hyperspace,Legendary,1,False
+TIE ln Fighter,SOR,487,Hyperspace,Common,1,False
+Snowtrooper Lieutenant,SOR,488,Hyperspace,Common,1,False
+Viper Probe Droid,SOR,489,Hyperspace,Common,1,False
+Cell Block Guard,SOR,490,Hyperspace,Common,1,False
+General Veers,SOR,491,Hyperspace,Uncommon,1,False
+TIE Advanced,SOR,492,Hyperspace,Uncommon,1,False
+AT-ST,SOR,493,Hyperspace,Common,1,False
+Maximum Firepower,SOR,494,Hyperspace,Common,1,False
+Galactic Ambition,SOR,495,Hyperspace,Rare,1,False
+Alliance X-Wing,SOR,496,Hyperspace,Common,1,False
+Rebel Pathfinder,SOR,497,Hyperspace,Common,1,False
+Fleet Lieutenant,SOR,498,Hyperspace,Common,1,False
+Wing Leader,SOR,499,Hyperspace,Uncommon,1,False
+General Dodonna,SOR,500,Hyperspace,Uncommon,1,False
+Regional Sympathizers,SOR,501,Hyperspace,Common,1,False
+Snowspeeder,SOR,502,Hyperspace,Common,1,False
+Medal Ceremony,SOR,503,Hyperspace,Common,1,False
+You're My Only Hope,SOR,504,Hyperspace,Rare,1,False
+Underworld Thug,SOR,505,Hyperspace,Common,1,False
+Volunteer Soldier,SOR,506,Hyperspace,Common,1,False
+Frontier AT-RT,SOR,507,Hyperspace,Common,1,False
+Corellian Freighter,SOR,508,Hyperspace,Common,1,False
+Confiscate,SOR,509,Hyperspace,Common,1,False
+Restock,SOR,510,Hyperspace,Common,1,False

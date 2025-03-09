@@ -1,0 +1,471 @@
+CardName,Set,CardNumber,VariantType,Rarity,Count,IsFoil
+Asajj Ventress,JTL,001,Normal,Rare,1,False
+Grand Admiral Thrawn,JTL,002,Normal,Common,1,False
+Lando Calrissian,JTL,003,Normal,Rare,1,False
+Rose Tico,JTL,004,Normal,Common,1,False
+Admiral Piett,JTL,005,Normal,Rare,1,False
+Darth Vader,JTL,006,Normal,Common,1,False
+Admiral Holdo,JTL,007,Normal,Rare,1,False
+Wedge Antilles,JTL,008,Normal,Common,1,False
+Boba Fett,JTL,009,Normal,Special,1,False
+Captain Phasma,JTL,010,Normal,Rare,1,False
+Major Vonreg,JTL,011,Normal,Common,1,False
+Luke Skywalker,JTL,012,Normal,Common,1,False
+Poe Dameron,JTL,013,Normal,Rare,1,False
+Admiral Trench,JTL,014,Normal,Rare,1,False
+Rio Durant,JTL,015,Normal,Common,1,False
+Admiral Ackbar,JTL,016,Normal,Common,1,False
+Han Solo,JTL,017,Normal,Special,1,False
+Kazuda Xiono,JTL,018,Normal,Rare,1,False
+City in the Clouds,JTL,019,Normal,Common,1,False
+Shield Generator Complex,JTL,020,Normal,Common,1,False
+Colossus,JTL,021,Normal,Rare,1,False
+Resistance Headquarters,JTL,022,Normal,Common,1,False
+Theed Palace,JTL,023,Normal,Common,1,False
+Data Vault,JTL,024,Normal,Rare,1,False
+Thermal Oscillator,JTL,025,Normal,Rare,1,False
+Massassi Temple,JTL,026,Normal,Common,1,False
+Nadiri Dockyards,JTL,027,Normal,Common,1,False
+Nabat Village,JTL,028,Normal,Rare,1,False
+Chopper Base,JTL,029,Normal,Common,1,False
+Mos Eisley,JTL,030,Normal,Common,1,False
+Lake Country,JTL,031,Normal,Rare,1,False
+Director Krennic,JTL,032,Normal,Uncommon,1,False
+Onyx Squadron Brute,JTL,033,Normal,Common,1,False
+Interceptor Ace,JTL,034,Normal,Common,1,False
+Tam Ryvora,JTL,035,Normal,Rare,1,False
+Iden Versio,JTL,036,Normal,Rare,1,False
+Banshee,JTL,037,Normal,Uncommon,1,False
+Corvus,JTL,038,Normal,Rare,1,False
+Chimaera,JTL,039,Normal,Uncommon,1,False
+Fleet Interdictor,JTL,040,Normal,Common,1,False
+Annihilator,JTL,041,Normal,Legendary,1,False
+Power from Pain,JTL,042,Normal,Uncommon,1,False
+"No Glory, Only Results",JTL,043,Normal,Rare,1,False
+Echo Base Engineer,JTL,044,Normal,Common,1,False
+Hera Syndulla,JTL,045,Normal,Uncommon,1,False
+Paige Tico,JTL,046,Normal,Uncommon,1,False
+Admiral Yularen,JTL,047,Normal,Rare,1,False
+Cassian Andor,JTL,048,Normal,Rare,1,False
+L3-37,JTL,049,Normal,Rare,1,False
+Phantom II,JTL,050,Normal,Rare,1,False
+Red Squadron X-Wing,JTL,051,Normal,Common,1,False
+D'Qar Cargo Frigate,JTL,052,Normal,Common,1,False
+The Ghost,JTL,053,Normal,Legendary,1,False
+Gold Leader,JTL,054,Normal,Uncommon,1,False
+"You're All Clear, Kid",JTL,055,Normal,Uncommon,1,False
+Hondo Ohnaka,JTL,056,Normal,Legendary,1,False
+Astromech Pilot,JTL,057,Normal,Uncommon,1,False
+Academy Graduate,JTL,058,Normal,Common,1,False
+Corporate Defense Shuttle,JTL,059,Normal,Rare,1,False
+Desperate Commando,JTL,060,Normal,Common,1,False
+Royal Security Fighter,JTL,061,Normal,Common,1,False
+Silver Angel,JTL,062,Normal,Uncommon,1,False
+Landing Shuttle,JTL,063,Normal,Common,1,False
+Omicron Strike Craft,JTL,064,Normal,Common,1,False
+Outer Rim Outlaws,JTL,065,Normal,Common,1,False
+Trace Martez,JTL,066,Normal,Uncommon,1,False
+Cloaked StarViper,JTL,067,Normal,Common,1,False
+Perimeter AT-RT,JTL,068,Normal,Common,1,False
+Munificent Frigate,JTL,069,Normal,Common,1,False
+U-Wing Lander,JTL,070,Normal,Uncommon,1,False
+CR90 Relief Runner,JTL,071,Normal,Common,1,False
+Wing Guard Security Team,JTL,072,Normal,Uncommon,1,False
+Grim Valor,JTL,073,Normal,Uncommon,1,False
+Close the Shieldgate,JTL,074,Normal,Rare,1,False
+Repair,JTL,075,Normal,Common,1,False
+Covering the Wing,JTL,076,Normal,Common,1,False
+In the Heat of Battle,JTL,077,Normal,Rare,1,False
+Direct Hit,JTL,078,Normal,Common,1,False
+Out the Airlock,JTL,079,Normal,Common,1,False
+Nebula Ignition,JTL,080,Normal,Legendary,1,False
+First Order TIE Fighter,JTL,081,Normal,Common,1,False
+Kijimi Patrollers,JTL,082,Normal,Common,1,False
+Pantoran Starship Thief,JTL,083,Normal,Rare,1,False
+Wingman Victor Two,JTL,084,Normal,Uncommon,1,False
+Victor Leader,JTL,085,Normal,Rare,1,False
+Wingman Victor Three,JTL,086,Normal,Uncommon,1,False
+TIE Ambush Squadron,JTL,087,Normal,Common,1,False
+Captain Phasma,JTL,088,Normal,Uncommon,1,False
+The Invisible Hand,JTL,089,Normal,Rare,1,False
+Executor,JTL,090,Normal,Legendary,1,False
+Apology Accepted,JTL,091,Normal,Uncommon,1,False
+Scramble Fighters,JTL,092,Normal,Legendary,1,False
+Nien Nunb,JTL,093,Normal,Rare,1,False
+Luke Skywalker,JTL,094,Normal,Rare,1,False
+Phoenix Squadron A-Wing,JTL,095,Normal,Common,1,False
+Blue Leader,JTL,096,Normal,Uncommon,1,False
+Leia Organa,JTL,097,Normal,Uncommon,1,False
+Snap Wexley,JTL,098,Normal,Rare,1,False
+Veteran Fleet Officer,JTL,099,Normal,Common,1,False
+Poe Dameron,JTL,100,Normal,Uncommon,1,False
+Red Leader,JTL,101,Normal,Uncommon,1,False
+Resistance Blue Squadron,JTL,102,Normal,Common,1,False
+Chewbacca,JTL,103,Normal,Special,1,False
+Raddus,JTL,104,Normal,Rare,1,False
+The Starhawk,JTL,105,Normal,Legendary,1,False
+Unity of Purpose,JTL,106,Normal,Legendary,1,False
+Bunker Defender,JTL,107,Normal,Common,1,False
+Clone Pilot,JTL,108,Normal,Common,1,False
+Jarek Yeager,JTL,109,Normal,Uncommon,1,False
+Scouting Headhunter,JTL,110,Normal,Common,1,False
+Seasoned Fleet Admiral,JTL,111,Normal,Rare,1,False
+Eager Escort Fighter,JTL,112,Normal,Common,1,False
+Homestead Militia,JTL,113,Normal,Common,1,False
+Adept ARC-170,JTL,114,Normal,Common,1,False
+Clone Combat Squadron,JTL,115,Normal,Uncommon,1,False
+Dornean Gunship,JTL,116,Normal,Uncommon,1,False
+General Draven,JTL,117,Normal,Rare,1,False
+MC30 Assault Frigate,JTL,118,Normal,Common,1,False
+Resupply Carrier,JTL,119,Normal,Common,1,False
+Dorsal Turret,JTL,120,Normal,Common,1,False
+Salvage,JTL,121,Normal,Uncommon,1,False
+All Wings Report In,JTL,122,Normal,Common,1,False
+Dogfight,JTL,123,Normal,Uncommon,1,False
+Tandem Assault,JTL,124,Normal,Common,1,False
+Air Superiority,JTL,125,Normal,Common,1,False
+Eject,JTL,126,Normal,Rare,1,False
+Lightspeed Assault,JTL,127,Normal,Rare,1,False
+Prepare for Takeoff,JTL,128,Normal,Common,1,False
+Focus Fire,JTL,129,Normal,Common,1,False
+Timely Reinforcements,JTL,130,Normal,Uncommon,1,False
+Turbolaser Salvo,JTL,131,Normal,Legendary,1,False
+First Order Stormtrooper,JTL,132,Normal,Common,1,False
+Allegiant General Pryde,JTL,133,Normal,Rare,1,False
+General Hux,JTL,134,Normal,Uncommon,1,False
+Special Forces TIE Fighter,JTL,135,Normal,Common,1,False
+Prototype TIE Advanced,JTL,136,Normal,Common,1,False
+Vonreg's TIE Interceptor,JTL,137,Normal,Uncommon,1,False
+Decimator of Dissidents,JTL,138,Normal,Uncommon,1,False
+Dengar,JTL,139,Normal,Uncommon,1,False
+IG-2000,JTL,140,Normal,Rare,1,False
+IG-88,JTL,141,Normal,Rare,1,False
+Darth Vader,JTL,142,Normal,Legendary,1,False
+Devastator,JTL,143,Normal,Legendary,1,False
+No Disintegrations,JTL,144,Normal,Special,1,False
+BB-8,JTL,145,Normal,Uncommon,1,False
+Massassi Tactical Officer,JTL,146,Normal,Common,1,False
+Black One,JTL,147,Normal,Rare,1,False
+Frisk,JTL,148,Normal,Uncommon,1,False
+Red Squadron Y-Wing,JTL,149,Normal,Common,1,False
+Biggs Darklighter,JTL,150,Normal,Uncommon,1,False
+Red Five,JTL,151,Normal,Uncommon,1,False
+Tactical Heavy Bomber,JTL,152,Normal,Rare,1,False
+Rebellious Hammerhead,JTL,153,Normal,Common,1,False
+Profundity,JTL,154,Normal,Legendary,1,False
+They Hate That Ship,JTL,155,Normal,Rare,1,False
+Trench Run,JTL,156,Normal,Rare,1,False
+Relentless Firespray,JTL,157,Normal,Rare,1,False
+Crackshot V-Wing,JTL,158,Normal,Common,1,False
+Determined Recruit,JTL,159,Normal,Common,1,False
+Supporting Eta-2,JTL,160,Normal,Common,1,False
+Captain Tarkin,JTL,161,Normal,Uncommon,1,False
+Droid Missile Platform,JTL,162,Normal,Common,1,False
+AT-DP Occupier,JTL,163,Normal,Uncommon,1,False
+Cham Syndulla,JTL,164,Normal,Uncommon,1,False
+Hunting Aggressor,JTL,165,Normal,Uncommon,1,False
+Orbiting K-Wing,JTL,166,Normal,Common,1,False
+Occupier Siege Tank,JTL,167,Normal,Common,1,False
+Insurgent Saboteurs,JTL,168,Normal,Common,1,False
+Shadow Caster,JTL,169,Normal,Legendary,1,False
+War Juggernaut,JTL,170,Normal,Uncommon,1,False
+Targeting Computer,JTL,171,Normal,Rare,1,False
+Twin Laser Turret,JTL,172,Normal,Common,1,False
+Fight Fire With Fire,JTL,173,Normal,Common,1,False
+Hotshot Maneuver,JTL,174,Normal,Rare,1,False
+System Shock,JTL,175,Normal,Common,1,False
+Shoot Down,JTL,176,Normal,Common,1,False
+Stay on Target,JTL,177,Normal,Uncommon,1,False
+Face Off,JTL,178,Normal,Uncommon,1,False
+Koiogran Turn,JTL,179,Normal,Common,1,False
+Piercing Shot,JTL,180,Normal,Common,1,False
+Planetary Bombardment,JTL,181,Normal,Legendary,1,False
+Rampart,JTL,182,Normal,Rare,1,False
+Zygerrian Starhopper,JTL,183,Normal,Common,1,False
+Contracted Jumpmaster,JTL,184,Normal,Common,1,False
+Hound's Tooth,JTL,185,Normal,Special,1,False
+Mist Hunter,JTL,186,Normal,Uncommon,1,False
+Bossk,JTL,187,Normal,Special,1,False
+Moff Gideon,JTL,188,Normal,Rare,1,False
+Boba Fett,JTL,189,Normal,Rare,1,False
+Techno Union Transport,JTL,190,Normal,Common,1,False
+Invincible,JTL,191,Normal,Legendary,1,False
+In Debt to Crimson Dawn,JTL,192,Normal,Uncommon,1,False
+I Have You Now,JTL,193,Normal,Uncommon,1,False
+Heartless Tactics,JTL,194,Normal,Uncommon,1,False
+Cat and Mouse,JTL,195,Normal,Rare,1,False
+Dagger Squadron Pilot,JTL,196,Normal,Common,1,False
+Anakin Skywalker,JTL,197,Normal,Uncommon,1,False
+Fireball,JTL,198,Normal,Uncommon,1,False
+Blade Squadron B-Wing,JTL,199,Normal,Common,1,False
+Shuttle Tydirium,JTL,200,Normal,Special,1,False
+Ahsoka Tano,JTL,201,Normal,Rare,1,False
+Black Squadron Scout Wing,JTL,202,Normal,Common,1,False
+Han Solo,JTL,203,Normal,Legendary,1,False
+Home One,JTL,204,Normal,Legendary,1,False
+Commence Patrol,JTL,205,Normal,Uncommon,1,False
+Fly Casual,JTL,206,Normal,Uncommon,1,False
+Jam Communications,JTL,207,Normal,Rare,1,False
+Never Tell Me The Odds,JTL,208,Normal,Special,1,False
+It's a Trap,JTL,209,Normal,Rare,1,False
+The Mandalorian,JTL,210,Normal,Uncommon,1,False
+Independent Smuggler,JTL,211,Normal,Common,1,False
+Republic Y-Wing,JTL,212,Normal,Common,1,False
+Sidon Ithano,JTL,213,Normal,Rare,1,False
+X-34 Landspeeder,JTL,214,Normal,Common,1,False
+BoShek,JTL,215,Normal,Uncommon,1,False
+Contracted Hunter,JTL,216,Normal,Uncommon,1,False
+Death Space Skirmisher,JTL,217,Normal,Common,1,False
+Guerilla Soldier,JTL,218,Normal,Common,1,False
+Rafa Martinez,JTL,219,Normal,Uncommon,1,False
+Skyway Cloud Car,JTL,220,Normal,Common,1,False
+Stolen AT-Hauler,JTL,221,Normal,Legendary,1,False
+Kimogila Heavy Fighter,JTL,222,Normal,Uncommon,1,False
+Razor Crest,JTL,223,Normal,Uncommon,1,False
+Shadowed Hover Tank,JTL,224,Normal,Common,1,False
+Corporate Light Cruiser,JTL,225,Normal,Common,1,False
+Radiant VII,JTL,226,Normal,Legendary,1,False
+Superheavy Ion Cannon,JTL,227,Normal,Rare,1,False
+Barrel Roll,JTL,228,Normal,Common,1,False
+Diversion,JTL,229,Normal,Common,1,False
+Electromagnetic Pulse,JTL,230,Normal,Common,1,False
+Punch It,JTL,231,Normal,Common,1,False
+Jump to Lightspeed,JTL,232,Normal,Rare,1,False
+Sweep the Area,JTL,233,Normal,Uncommon,1,False
+Torpedo Barrage,JTL,234,Normal,Common,1,False
+Commandeer,JTL,235,Normal,Rare,1,False
+Indoctrinated Conscript,JTL,236,Normal,Common,1,False
+TIE Bomber,JTL,237,Normal,Common,1,False
+Sith Trooper,JTL,238,Normal,Common,1,False
+TIE Dagger Vanguard,JTL,239,Normal,Common,1,False
+Fett's Firespray,JTL,240,Normal,Special,1,False
+Rogue-class Starfighter,JTL,241,Normal,Common,1,False
+Shuttle ST-149,JTL,242,Normal,Uncommon,1,False
+Quasar TIE Carrier,JTL,243,Normal,Common,1,False
+There Is No Escape,JTL,244,Normal,Rare,1,False
+R2-D2,JTL,245,Normal,Uncommon,1,False
+Hopeful Volunteer,JTL,246,Normal,Common,1,False
+Resistance X-Wing,JTL,247,Normal,Common,1,False
+Dilapidated Ski Speeder,JTL,248,Normal,Common,1,False
+Millennium Falcon,JTL,249,Normal,Special,1,False
+Sabine's Masterpiece,JTL,250,Normal,Rare,1,False
+Jedi Light Cruiser,JTL,251,Normal,Common,1,False
+Tantive IV,JTL,252,Normal,Uncommon,1,False
+Coordinated Front,JTL,253,Normal,Common,1,False
+Dedicated Wingmen,JTL,254,Normal,Common,1,False
+Sullustan Spacer,JTL,255,Normal,Common,1,False
+Swarming Vulture Droid,JTL,256,Normal,Common,1,False
+Flanking Fang Fighter,JTL,257,Normal,Common,1,False
+Corellian Freighter,JTL,258,Normal,Common,1,False
+Retrofitted Airspeeder,JTL,259,Normal,Uncommon,1,False
+Death Star Plans,JTL,260,Normal,Legendary,1,False
+Attack Run,JTL,261,Normal,Common,1,False
+Evasive Maneuver,JTL,262,Normal,Common,1,False
+Asajj Ventress,JTL,263,Hyperspace,Rare,1,False
+Grand Admiral Thrawn,JTL,264,Hyperspace,Common,1,False
+Lando Calrissian,JTL,265,Hyperspace,Rare,1,False
+Rose Tico,JTL,266,Hyperspace,Common,1,False
+Admiral Piett,JTL,267,Hyperspace,Rare,1,False
+Darth Vader,JTL,268,Hyperspace,Common,1,False
+Admiral Holdo,JTL,269,Hyperspace,Rare,1,False
+Wedge Antilles,JTL,270,Hyperspace,Common,1,False
+Boba Fett,JTL,271,Hyperspace,Special,1,False
+Captain Phasma,JTL,272,Hyperspace,Rare,1,False
+Major Vonreg,JTL,273,Hyperspace,Common,1,False
+Luke Skywalker,JTL,274,Hyperspace,Common,1,False
+Poe Dameron,JTL,275,Hyperspace,Rare,1,False
+Admiral Trench,JTL,276,Hyperspace,Rare,1,False
+Rio Durant,JTL,277,Hyperspace,Common,1,False
+Admiral Ackbar,JTL,278,Hyperspace,Common,1,False
+Han Solo,JTL,279,Hyperspace,Special,1,False
+Kazuda Xiono,JTL,280,Hyperspace,Rare,1,False
+City in the Clouds,JTL,281,Hyperspace,Common,1,False
+Shield Generator Complex,JTL,282,Hyperspace,Common,1,False
+Colossus,JTL,283,Hyperspace,Rare,1,False
+Resistance Headquarters,JTL,284,Hyperspace,Common,1,False
+Theed Palace,JTL,285,Hyperspace,Common,1,False
+Data Vault,JTL,286,Hyperspace,Rare,1,False
+Thermal Oscillator,JTL,287,Hyperspace,Rare,1,False
+Massassi Temple,JTL,288,Hyperspace,Common,1,False
+Nadiri Dockyards,JTL,289,Hyperspace,Common,1,False
+Nabat Village,JTL,290,Hyperspace,Rare,1,False
+Chopper Base,JTL,291,Hyperspace,Common,1,False
+Mos Eisley,JTL,292,Hyperspace,Common,1,False
+Lake Country,JTL,293,Hyperspace,Rare,1,False
+Director Krennic,JTL,294,Hyperspace,Uncommon,1,False
+Onyx Squadron Brute,JTL,295,Hyperspace,Common,1,False
+Interceptor Ace,JTL,296,Hyperspace,Common,1,False
+Tam Ryvora,JTL,297,Hyperspace,Rare,1,False
+Iden Versio,JTL,298,Hyperspace,Rare,1,False
+Banshee,JTL,299,Hyperspace,Uncommon,1,False
+Corvus,JTL,300,Hyperspace,Rare,1,False
+Chimaera,JTL,301,Hyperspace,Uncommon,1,False
+Fleet Interdictor,JTL,302,Hyperspace,Common,1,False
+Annihilator,JTL,303,Hyperspace,Legendary,1,False
+Power from Pain,JTL,304,Hyperspace,Uncommon,1,False
+"No Glory, Only Results",JTL,305,Hyperspace,Rare,1,False
+Echo Base Engineer,JTL,306,Hyperspace,Common,1,False
+Hera Syndulla,JTL,307,Hyperspace,Uncommon,1,False
+Paige Tico,JTL,308,Hyperspace,Uncommon,1,False
+Admiral Yularen,JTL,309,Hyperspace,Rare,1,False
+Cassian Andor,JTL,310,Hyperspace,Rare,1,False
+L3-37,JTL,311,Hyperspace,Rare,1,False
+Phantom II,JTL,312,Hyperspace,Rare,1,False
+Red Squadron X-Wing,JTL,313,Hyperspace,Common,1,False
+D'Qar Cargo Frigate,JTL,314,Hyperspace,Common,1,False
+The Ghost,JTL,315,Hyperspace,Legendary,1,False
+Gold Leader,JTL,316,Hyperspace,Uncommon,1,False
+"You're All Clear, Kid",JTL,317,Hyperspace,Uncommon,1,False
+Hondo Ohnaka,JTL,318,Hyperspace,Legendary,1,False
+Astromech Pilot,JTL,319,Hyperspace,Uncommon,1,False
+Academy Graduate,JTL,320,Hyperspace,Common,1,False
+Corporate Defense Shuttle,JTL,321,Hyperspace,Rare,1,False
+Desperate Commando,JTL,322,Hyperspace,Common,1,False
+Royal Security Fighter,JTL,323,Hyperspace,Common,1,False
+Silver Angel,JTL,324,Hyperspace,Uncommon,1,False
+Landing Shuttle,JTL,325,Hyperspace,Common,1,False
+Omicron Strike Craft,JTL,326,Hyperspace,Common,1,False
+Outer Rim Outlaws,JTL,327,Hyperspace,Common,1,False
+Trace Martez,JTL,328,Hyperspace,Uncommon,1,False
+Cloaked StarViper,JTL,329,Hyperspace,Common,1,False
+Perimeter AT-RT,JTL,330,Hyperspace,Common,1,False
+Munificent Frigate,JTL,331,Hyperspace,Common,1,False
+U-Wing Lander,JTL,332,Hyperspace,Uncommon,1,False
+CR90 Relief Runner,JTL,333,Hyperspace,Common,1,False
+Wing Guard Security Team,JTL,334,Hyperspace,Uncommon,1,False
+Grim Valor,JTL,335,Hyperspace,Uncommon,1,False
+Close the Shieldgate,JTL,336,Hyperspace,Rare,1,False
+Repair,JTL,337,Hyperspace,Common,1,False
+Covering the Wing,JTL,338,Hyperspace,Common,1,False
+In the Heat of Battle,JTL,339,Hyperspace,Rare,1,False
+Direct Hit,JTL,340,Hyperspace,Common,1,False
+Out the Airlock,JTL,341,Hyperspace,Common,1,False
+Nebula Ignition,JTL,342,Hyperspace,Legendary,1,False
+First Order TIE Fighter,JTL,343,Hyperspace,Common,1,False
+Kijimi Patrollers,JTL,344,Hyperspace,Common,1,False
+Pantoran Starship Thief,JTL,345,Hyperspace,Rare,1,False
+Wingman Victor Two,JTL,346,Hyperspace,Uncommon,1,False
+Victor Leader,JTL,347,Hyperspace,Rare,1,False
+Wingman Victor Three,JTL,348,Hyperspace,Uncommon,1,False
+TIE Ambush Squadron,JTL,349,Hyperspace,Common,1,False
+Captain Phasma,JTL,350,Hyperspace,Uncommon,1,False
+The Invisible Hand,JTL,351,Hyperspace,Rare,1,False
+Executor,JTL,352,Hyperspace,Legendary,1,False
+Apology Accepted,JTL,353,Hyperspace,Uncommon,1,False
+Scramble Fighters,JTL,354,Hyperspace,Legendary,1,False
+Nien Nunb,JTL,355,Hyperspace,Rare,1,False
+Luke Skywalker,JTL,356,Hyperspace,Rare,1,False
+Phoenix Squadron A-Wing,JTL,357,Hyperspace,Common,1,False
+Blue Leader,JTL,358,Hyperspace,Uncommon,1,False
+Leia Organa,JTL,359,Hyperspace,Uncommon,1,False
+Snap Wexley,JTL,360,Hyperspace,Rare,1,False
+Veteran Fleet Officer,JTL,361,Hyperspace,Common,1,False
+Poe Dameron,JTL,362,Hyperspace,Uncommon,1,False
+Red Leader,JTL,363,Hyperspace,Uncommon,1,False
+Resistance Blue Squadron,JTL,364,Hyperspace,Common,1,False
+Chewbacca,JTL,365,Hyperspace,Special,1,False
+Raddus,JTL,366,Hyperspace,Rare,1,False
+The Starhawk,JTL,367,Hyperspace,Legendary,1,False
+Unity of Purpose,JTL,368,Hyperspace,Legendary,1,False
+Bunker Defender,JTL,369,Hyperspace,Common,1,False
+Clone Pilot,JTL,370,Hyperspace,Common,1,False
+Jarek Yeager,JTL,371,Hyperspace,Uncommon,1,False
+Scouting Headhunter,JTL,372,Hyperspace,Common,1,False
+Seasoned Fleet Admiral,JTL,373,Hyperspace,Rare,1,False
+Eager Escort Fighter,JTL,374,Hyperspace,Common,1,False
+Homestead Militia,JTL,375,Hyperspace,Common,1,False
+Adept ARC-170,JTL,376,Hyperspace,Common,1,False
+Clone Combat Squadron,JTL,377,Hyperspace,Uncommon,1,False
+Dornean Gunship,JTL,378,Hyperspace,Uncommon,1,False
+General Draven,JTL,379,Hyperspace,Rare,1,False
+MC30 Assault Frigate,JTL,380,Normal,Common,1,False
+Resupply Carrier,JTL,381,Hyperspace,Common,1,False
+Dorsal Turret,JTL,382,Hyperspace,Common,1,False
+Salvage,JTL,383,Hyperspace,Uncommon,1,False
+All Wings Report In,JTL,384,Hyperspace,Common,1,False
+Dogfight,JTL,385,Hyperspace,Uncommon,1,False
+Tandem Assault,JTL,386,Hyperspace,Common,1,False
+Air Superiority,JTL,387,Hyperspace,Common,1,False
+Eject,JTL,388,Hyperspace,Rare,1,False
+Lightspeed Assault,JTL,389,Hyperspace,Rare,1,False
+Prepare for Takeoff,JTL,390,Hyperspace,Uncommon,1,False
+Focus Fire,JTL,391,Hyperspace,Common,1,False
+Timely Reinforcements,JTL,392,Hyperspace,Uncommon,1,False
+Turbolaser Salvo,JTL,393,Hyperspace,Legendary,1,False
+First Order Stormtrooper,JTL,394,Hyperspace,Common,1,False
+Allegiant General Pryde,JTL,395,Hyperspace,Rare,1,False
+General Hux,JTL,396,Hyperspace,Uncommon,1,False
+Special Forces TIE Fighter,JTL,397,Hyperspace,Common,1,False
+Prototype TIE Advanced,JTL,398,Hyperspace,Common,1,False
+Vonreg's TIE Interceptor,JTL,399,Hyperspace,Uncommon,1,False
+Decimator of Dissidents,JTL,400,Hyperspace,Uncommon,1,False
+Dengar,JTL,401,Hyperspace,Uncommon,1,False
+IG-2000,JTL,402,Hyperspace,Rare,1,False
+IG-88,JTL,403,Hyperspace,Rare,1,False
+Darth Vader,JTL,404,Hyperspace,Legendary,1,False
+Devastator,JTL,405,Hyperspace,Legendary,1,False
+No Disintegrations,JTL,406,Hyperspace,Special,1,False
+BB-8,JTL,407,Hyperspace,Uncommon,1,False
+Massassi Tactical Officer,JTL,408,Hyperspace,Common,1,False
+Black One,JTL,409,Hyperspace,Rare,1,False
+Frisk,JTL,410,Hyperspace,Uncommon,1,False
+Red Squadron Y-Wing,JTL,411,Hyperspace,Common,1,False
+Biggs Darklighter,JTL,412,Hyperspace,Uncommon,1,False
+Red Five,JTL,413,Hyperspace,Uncommon,1,False
+Tactical Heavy Bomber,JTL,414,Hyperspace,Rare,1,False
+Rebellious Hammerhead,JTL,415,Hyperspace,Common,1,False
+Profundity,JTL,416,Hyperspace,Legendary,1,False
+They Hate That Ship,JTL,417,Hyperspace,Rare,1,False
+Trench Run,JTL,418,Hyperspace,Rare,1,False
+Relentless Firespray,JTL,419,Hyperspace,Rare,1,False
+Crackshot V-Wing,JTL,420,Hyperspace,Common,1,False
+Determined Recruit,JTL,421,Hyperspace,Common,1,False
+Supporting Eta-2,JTL,422,Hyperspace,Common,1,False
+Captain Tarkin,JTL,423,Hyperspace,Uncommon,1,False
+Droid Missile Platform,JTL,424,Hyperspace,Common,1,False
+AT-DP Occupier,JTL,425,Hyperspace,Uncommon,1,False
+Cham Syndulla,JTL,426,Hyperspace,Uncommon,1,False
+Hunting Aggressor,JTL,427,Hyperspace,Uncommon,1,False
+Orbiting K-Wing,JTL,428,Hyperspace,Common,1,False
+Occupier Siege Tank,JTL,429,Hyperspace,Common,1,False
+Insurgent Saboteurs,JTL,430,Hyperspace,Common,1,False
+Shadow Caster,JTL,431,Hyperspace,Legendary,1,False
+Targeting Computer,JTL,433,Hyperspace,Rare,1,False
+Twin Laser Turret,JTL,434,Hyperspace,Common,1,False
+Fight Fire With Fire,JTL,435,Hyperspace,Common,1,False
+Hotshot Maneuver,JTL,436,Hyperspace,Rare,1,False
+System Shock,JTL,437,Hyperspace,Common,1,False
+Shoot Down,JTL,438,Hyperspace,Common,1,False
+Stay on Target,JTL,439,Hyperspace,Uncommon,1,False
+Face Off,JTL,440,Hyperspace,Uncommon,1,False
+Koiogran Turn,JTL,441,Hyperspace,Common,1,False
+Piercing Shot,JTL,442,Hyperspace,Common,1,False
+Planetary Bombardment,JTL,443,Hyperspace,Legendary,1,False
+Rampart,JTL,444,Hyperspace,Rare,1,False
+Zygerrian Starhopper,JTL,445,Hyperspace,Common,1,False
+Contracted Jumpmaster,JTL,446,Hyperspace,Common,1,False
+Hound's Tooth,JTL,447,Hyperspace,Special,1,False
+Mist Hunter,JTL,448,Hyperspace,Uncommon,1,False
+Bossk,JTL,449,Hyperspace,Special,1,False
+Moff Gideon,JTL,450,Hyperspace,Rare,1,False
+Boba Fett,JTL,451,Hyperspace,Rare,1,False
+Techno Union Transport,JTL,452,Hyperspace,Common,1,False
+Invincible,JTL,453,Hyperspace,Legendary,1,False
+In Debt to Crimson Dawn,JTL,454,Hyperspace,Uncommon,1,False
+I Have You Now,JTL,455,Hyperspace,Uncommon,1,False
+Heartless Tactics,JTL,456,Hyperspace,Uncommon,1,False
+Cat and Mouse,JTL,457,Hyperspace,Rare,1,False
+Dagger Squadron Pilot,JTL,458,Hyperspace,Common,1,False
+Anakin Skywalker,JTL,459,Hyperspace,Uncommon,1,False
+Fireball,JTL,460,Hyperspace,Uncommon,1,False
+Blade Squadron B-Wing,JTL,461,Hyperspace,Common,1,False
+Shuttle Tydirium,JTL,462,Hyperspace,Special,1,False
+Ahsoka Tano,JTL,463,Hyperspace,Rare,1,False
+Black Squadron Scout Wing,JTL,464,Hyperspace,Common,1,False
+Han Solo,JTL,465,Hyperspace,Legendary,1,False
+Home One,JTL,466,Hyperspace,Legendary,1,False
+Commence Patrol,JTL,467,Hyperspace,Uncommon,1,False
+Fly Casual,JTL,468,Hyperspace,Uncommon,1,False
+Jam Communications,JTL,469,Hyperspace,Rare,1,False
+Never Tell Me The Odds,JTL,470,Hyperspace,Special,1,False
+It's a Trap,JTL,471,Hyperspace,Rare,1,False

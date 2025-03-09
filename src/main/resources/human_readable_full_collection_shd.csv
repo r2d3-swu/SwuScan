@@ -1,0 +1,523 @@
+CardName,Set,CardNumber,VariantType,Rarity,Count,IsFoil
+Gar Saxon,SHD,001,Normal,Common,1,False
+Qi'ra,SHD,002,Normal,Rare,1,False
+Finn,SHD,003,Normal,Rare,1,False
+Rey,SHD,004,Normal,Common,1,False
+Hondo Ohnaka,SHD,005,Normal,Common,1,False
+Jabba the Hutt,SHD,006,Normal,Rare,1,False
+Moff Gideon,SHD,007,Normal,Special,1,False
+Boba Fett,SHD,008,Normal,Common,1,False
+Hunter,SHD,009,Normal,Rare,1,False
+Bossk,SHD,010,Normal,Common,1,False
+Kylo Ren,SHD,011,Normal,Rare,1,False
+Bo-Katan Kryze,SHD,012,Normal,Rare,1,False
+Han Solo,SHD,013,Normal,Common,1,False
+Cad Bane,SHD,014,Normal,Common,1,False
+Doctor Aphra,SHD,015,Normal,Rare,1,False
+Fennec Shand,SHD,016,Normal,Common,1,False
+Lando Calrissian,SHD,017,Normal,Rare,1,False
+The Mandalorian,SHD,018,Normal,Special,1,False
+Remnant Science Facility,SHD,019,Normal,Common,1,False
+Remote Village,SHD,020,Normal,Common,1,False
+Maz Kanata's Castle,SHD,021,Normal,Common,1,False
+Nevarro City,SHD,022,Normal,Common,1,False
+Death Watch Hideout,SHD,023,Normal,Common,1,False
+Spice Mines,SHD,024,Normal,Common,1,False
+Coronet City,SHD,025,Normal,Common,1,False
+Jabba's Palace,SHD,026,Normal,Common,1,False
+Hylobon Enforcer,SHD,027,Normal,Common,1,False
+Doctor Pershing,SHD,028,Normal,Rare,1,False
+Pyke Sentinel,SHD,029,Normal,Common,1,False
+Death Trooper,SHD,030,Normal,Special,1,False
+The Client,SHD,031,Normal,Uncommon,1,False
+Lom Pyke,SHD,032,Normal,Rare,1,False
+Synara San,SHD,033,Normal,Uncommon,1,False
+Supercommando Squad,SHD,034,Normal,Common,1,False
+Clan Saxon Gauntlet,SHD,035,Normal,Uncommon,1,False
+First Light,SHD,036,Normal,Rare,1,False
+Supreme Leader Snoke,SHD,037,Normal,Legendary,1,False
+Brutal Traditions,SHD,038,Normal,Uncommon,1,False
+Calculated Lethality,SHD,039,Normal,Special,1,False
+Clan Wren Rescuer,SHD,040,Normal,Common,1,False
+Kuiil,SHD,041,Normal,Uncommon,1,False
+Concord Dawn Interceptors,SHD,042,Normal,Uncommon,1,False
+Village Protectors,SHD,043,Normal,Common,1,False
+Razor Crest,SHD,044,Normal,Special,1,False
+Rose Tico,SHD,045,Normal,Uncommon,1,False
+Rey,SHD,046,Normal,Legendary,1,False
+The Armorer,SHD,047,Normal,Uncommon,1,False
+Gentle Giant,SHD,048,Normal,Common,1,False
+The Mandalorian,SHD,049,Normal,Legendary,1,False
+Chewbacca,SHD,050,Normal,Rare,1,False
+Mystic Reflection,SHD,051,Normal,Rare,1,False
+Sugi,SHD,052,Normal,Rare,1,False
+Second Chance,SHD,053,Normal,Legendary,1,False
+Midnight Repairs,SHD,054,Normal,Uncommon,1,False
+Moisture Farmer,SHD,055,Normal,Common,1,False
+Follower of The Way,SHD,056,Normal,Common,1,False
+Rickety Quadjumper,SHD,057,Normal,Common,1,False
+Val,SHD,058,Normal,Rare,1,False
+Embo,SHD,059,Normal,Uncommon,1,False
+HWK-290 Freighter,SHD,060,Normal,Common,1,False
+Wroshyr Tree Tender,SHD,061,Normal,Common,1,False
+Niima Outpost Constables,SHD,062,Normal,Common,1,False
+System Patrol Craft,SHD,063,Normal,Special,1,False
+Survivors' Gauntlet,SHD,064,Normal,Rare,1,False
+Vigilant Pursuit Craft,SHD,065,Normal,Common,1,False
+Cargo Juggernaut,SHD,066,Normal,Common,1,False
+Fenn Rau,SHD,067,Normal,Uncommon,1,False
+Public Enemy,SHD,068,Normal,Common,1,False
+Foundling,SHD,069,Normal,Common,1,False
+Resilient,SHD,070,Normal,Special,1,False
+Top Target,SHD,071,Normal,Uncommon,1,False
+Imprisoned,SHD,072,Normal,Rare,1,False
+Mandalorian Armor,SHD,073,Normal,Rare,1,False
+Vambrace Grappleshot,SHD,074,Normal,Common,1,False
+Covert Strength,SHD,075,Normal,Common,1,False
+Unexpected Escape,SHD,076,Normal,Uncommon,1,False
+Evidence of the Crime,SHD,077,Normal,Rare,1,False
+Fell the Dragon,SHD,078,Normal,Uncommon,1,False
+Rival's Fall,SHD,079,Normal,Common,1,False
+Salacious Crumb,SHD,080,Normal,Uncommon,1,False
+General Tagge,SHD,081,Normal,Special,1,False
+Outland TIE Vanguard,SHD,082,Normal,Common,1,False
+Seasoned Shoretrooper,SHD,083,Normal,Special,1,False
+Phase-III Dark Trooper,SHD,084,Normal,Special,1,False
+Superlaser Technician,SHD,085,Normal,Special,1,False
+Warbird Stowaway,SHD,086,Normal,Common,1,False
+Crosshair,SHD,087,Normal,Uncommon,1,False
+Ephant Mon,SHD,088,Normal,Rare,1,False
+Pirate Battle Tank,SHD,089,Normal,Common,1,False
+Maul,SHD,090,Normal,Rare,1,False
+Jabba's Rancor,SHD,091,Normal,Uncommon,1,False
+Finalizer,SHD,092,Normal,Legendary,1,False
+Remnant Reserves,SHD,093,Normal,Uncommon,1,False
+Palpatine's Return,SHD,094,Normal,Rare,1,False
+Clone Deserter,SHD,095,Normal,Common,1,False
+Maz Kanata,SHD,096,Normal,Rare,1,False
+Freetown Backup,SHD,097,Normal,Uncommon,1,False
+Sundari Peacekeeper,SHD,098,Normal,Uncommon,1,False
+Echo,SHD,099,Normal,Uncommon,1,False
+Modded Cohort,SHD,100,Normal,Common,1,False
+Adelphi Patrol Wing,SHD,101,Normal,Common,1,False
+The Marauder,SHD,102,Normal,Rare,1,False
+General Rieekan,SHD,103,Normal,Rare,1,False
+Inspiring Mentor,SHD,104,Normal,Rare,1,False
+Spark of Hope,SHD,105,Normal,Uncommon,1,False
+Rule with Respect,SHD,106,Normal,Legendary,1,False
+Enterprising Lackeys,SHD,107,Normal,Rare,1,False
+Enforced Loyalty,SHD,108,Normal,Uncommon,1,False
+Endless Legions,SHD,109,Normal,Legendary,1,False
+Warzone Lieutenant,SHD,110,Normal,Common,1,False
+Collections Starhopper,SHD,111,Normal,Common,1,False
+Gamorrean Retainer,SHD,112,Normal,Common,1,False
+Privateer Crew,SHD,113,Normal,Uncommon,1,False
+Scanning Officer,SHD,114,Normal,Uncommon,1,False
+Cobb Vanth,SHD,115,Normal,Rare,1,False
+Outlaw Corona,SHD,116,Normal,Common,1,False
+Reputable Hunter,SHD,117,Normal,Common,1,False
+Kihraxz Heavy Fighter,SHD,118,Normal,Uncommon,1,False
+Weequay Pirate Gang,SHD,119,Normal,Common,1,False
+Discerning Veteran,SHD,120,Normal,Common,1,False
+Mercenary Company,SHD,121,Normal,Common,1,False
+Arquitens Assault Cruiser,SHD,122,Normal,Rare,1,False
+Bounty Hunter's Quarry,SHD,123,Normal,Uncommon,1,False
+Legal Authority,SHD,124,Normal,Rare,1,False
+Price on Your Head,SHD,125,Normal,Common,1,False
+The Darksaber,SHD,126,Normal,Legendary,1,False
+Commission,SHD,127,Normal,Uncommon,1,False
+Outflank,SHD,128,Normal,Common,1,False
+Timely Intervention,SHD,129,Normal,Common,1,False
+Moment of Glory,SHD,130,Normal,Common,1,False
+Take Captive,SHD,131,Normal,Common,1,False
+Choose Sides,SHD,132,Normal,Rare,1,False
+Dengar,SHD,133,Normal,Uncommon,1,False
+Guavian Antagonizer,SHD,134,Normal,Common,1,False
+Kylo's TIE Silencer,SHD,135,Normal,Legendary,1,False
+Death Watch Loyalist,SHD,136,Normal,Common,1,False
+Punishing One,SHD,137,Normal,Uncommon,1,False
+Jango Fett,SHD,138,Normal,Rare,1,False
+Krrsantan,SHD,139,Normal,Uncommon,1,False
+Trandoshan Hunters,SHD,140,Normal,Common,1,False
+Kylo Ren,SHD,141,Normal,Legendary,1,False
+Pre Vizsla,SHD,142,Normal,Rare,1,False
+Ruthlessness,SHD,143,Normal,Rare,1,False
+Give In to Your Anger,SHD,144,Normal,Rare,1,False
+Headhunting,SHD,145,Normal,Uncommon,1,False
+Heroic Renegade,SHD,146,Normal,Common,1,False
+Ketsu Onyo,SHD,147,Normal,Uncommon,1,False
+Cassian Andor,SHD,148,Normal,Uncommon,1,False
+Nite Owl Skirmisher,SHD,149,Normal,Common,1,False
+Koska Reeves,SHD,150,Normal,Rare,1,False
+Valiant Assault Ship,SHD,151,Normal,Uncommon,1,False
+Desperado Freighter,SHD,152,Normal,Common,1,False
+Poe Dameron,SHD,153,Normal,Legendary,1,False
+Wrecker,SHD,154,Normal,Rare,1,False
+Heroic Resolve,SHD,155,Normal,Rare,1,False
+Cripple Authority,SHD,156,Normal,Uncommon,1,False
+Bo-Katan Kryze,SHD,157,Normal,Uncommon,1,False
+Wild Rancor,SHD,158,Normal,Rare,1,False
+The Chaos of War,SHD,159,Normal,Rare,1,False
+Reckless Gunslinger,SHD,160,Normal,Common,1,False
+Stolen Landspeeder,SHD,161,Normal,Rare,1,False
+House Kast Soldier,SHD,162,Normal,Common,1,False
+Migs Mayfeld,SHD,163,Normal,Rare,1,False
+Rhokai Gunship,SHD,164,Normal,Common,1,False
+Unlicensed Headhunter,SHD,165,Normal,Uncommon,1,False
+Disabling Fang Fighter,SHD,166,Normal,Common,1,False
+Wanted Insurgents,SHD,167,Normal,Common,1,False
+Hunting Nexu,SHD,168,Normal,Common,1,False
+Clan Challengers,SHD,169,Normal,Common,1,False
+IG-11,SHD,170,Normal,Uncommon,1,False
+Covetous Rivals,SHD,171,Normal,Common,1,False
+Krayt Dragon,SHD,172,Normal,Legendary,1,False
+Guild Target,SHD,173,Normal,Uncommon,1,False
+Hotshot DL-44 Blaster,SHD,174,Normal,Rare,1,False
+Armed to the Teeth,SHD,175,Normal,Uncommon,1,False
+Death Mark,SHD,176,Normal,Common,1,False
+Vambrace Flamethrower,SHD,177,Normal,Rare,1,False
+Daring Raid,SHD,178,Normal,Common,1,False
+Desperate Attack,SHD,179,Normal,Common,1,False
+Detention Block Rescue,SHD,180,Normal,Common,1,False
+Pillage,SHD,181,Normal,Common,1,False
+Bravado,SHD,182,Normal,Uncommon,1,False
+Kintan Intimidator,SHD,183,Normal,Common,1,False
+Bazine Netal,SHD,184,Normal,Rare,1,False
+Doctor Evazan,SHD,185,Normal,Rare,1,False
+Hunter of the Haxion Brood,SHD,186,Normal,Common,1,False
+Lurking TIE Phantom,SHD,187,Normal,Uncommon,1,False
+4-LOM,SHD,188,Normal,Uncommon,1,False
+Slaver's Freighter,SHD,189,Normal,Common,1,False
+Zuckuss,SHD,190,Normal,Uncommon,1,False
+Xanadu Blood,SHD,191,Normal,Rare,1,False
+Dryden Vos,SHD,192,Normal,Legendary,1,False
+Frozen in Carbonite,SHD,193,Normal,Uncommon,1,False
+Triple Dark Raid,SHD,194,Normal,Rare,1,False
+Cartel Turncoat,SHD,195,Normal,Common,1,False
+Grogu,SHD,196,Normal,Special,1,False
+L3-37,SHD,197,Normal,Uncommon,1,False
+Omega,SHD,198,Normal,Rare,1,False
+Coruscant Dissident,SHD,199,Normal,Uncommon,1,False
+Liberated Slaves,SHD,200,Normal,Common,1,False
+Principled Outlaw,SHD,201,Normal,Common,1,False
+Qi'ra,SHD,202,Normal,Rare,1,False
+Zorii Bliss,SHD,203,Normal,Rare,1,False
+Millennium Falcon,SHD,204,Normal,Uncommon,1,False
+Let the Wookiee Win,SHD,205,Normal,Rare,1,False
+Spare the Target,SHD,206,Normal,Uncommon,1,False
+A New Adventure,SHD,207,Normal,Uncommon,1,False
+Final Showdown,SHD,208,Normal,Legendary,1,False
+Criminal Muscle,SHD,209,Normal,Common,1,False
+Cloud-Rider,SHD,210,Normal,Common,1,False
+Fugitive Wookiee,SHD,211,Normal,Common,1,False
+Privateer Scyk,SHD,212,Normal,Common,1,False
+DJ,SHD,213,Normal,Legendary,1,False
+Frontier Trader,SHD,214,Normal,Common,1,False
+Smuggler's Starfighter,SHD,215,Normal,Common,1,False
+Chain Code Collector,SHD,216,Normal,Common,1,False
+Tobias Beckett,SHD,217,Normal,Rare,1,False
+Resourceful Pursuers,SHD,218,Normal,Common,1,False
+Enfys Nest,SHD,219,Normal,Uncommon,1,False
+Fennec Shand,SHD,220,Normal,Uncommon,1,False
+Wanted,SHD,221,Normal,Common,1,False
+Enticing Reward,SHD,222,Normal,Uncommon,1,False
+Snapshot Reflexes,SHD,223,Normal,Special,1,False
+Boba Fett's Armor,SHD,224,Normal,Rare,1,False
+Jetpack,SHD,225,Normal,Uncommon,1,False
+Unrefusable Offer,SHD,226,Normal,Rare,1,False
+Look the Other Way,SHD,227,Normal,Common,1,False
+Bounty Posting,SHD,228,Normal,Uncommon,1,False
+Ma Klounkee,SHD,229,Normal,Common,1,False
+Swoop Down,SHD,230,Normal,Rare,1,False
+Surprise Strike,SHD,231,Normal,Common,1,False
+Relentless Pursuit,SHD,232,Normal,Common,1,False
+Evacuate,SHD,233,Normal,Legendary,1,False
+Incinerator Trooper,SHD,234,Normal,Special,1,False
+Ruthless Assassin,SHD,235,Normal,Common,1,False
+Snowtrooper Lieutenant,SHD,236,Normal,Special,1,False
+Black Sun Starfighter,SHD,237,Normal,Common,1,False
+Cell Block Guard,SHD,238,Normal,Special,1,False
+Toro Calican,SHD,239,Normal,Uncommon,1,False
+Hutt's Henchmen,SHD,240,Normal,Common,1,False
+Kragan Gorr,SHD,241,Normal,Rare,1,False
+Gideon's Light Cruiser,SHD,242,Normal,Special,1,False
+Altering the Deal,SHD,243,Normal,Rare,1,False
+No Bargain,SHD,244,Normal,Common,1,False
+Greef Karga,SHD,245,Normal,Special,1,False
+Grey Squadron Y-Wing,SHD,246,Normal,Common,1,False
+Protector of the Throne,SHD,247,Normal,Common,1,False
+Tech,SHD,248,Normal,Rare,1,False
+Wookiee Warrior,SHD,249,Normal,Common,1,False
+Tarfful,SHD,250,Normal,Rare,1,False
+The Mandalorian's Rifle,SHD,251,Normal,Special,1,False
+Smuggler's Aid,SHD,252,Normal,Common,1,False
+This Is The Way,SHD,253,Normal,Uncommon,1,False
+Bounty Guild Initiate,SHD,254,Normal,Common,1,False
+Lady Proxima,SHD,255,Normal,Uncommon,1,False
+Mercenary Gunship,SHD,256,Normal,Uncommon,1,False
+Underworld Thug,SHD,257,Normal,Common,1,False
+Mandalorian Warrior,SHD,258,Normal,Common,1,False
+Twin Pod Cloud Car,SHD,259,Normal,Common,1,False
+Street Gang Recruiter,SHD,260,Normal,Common,1,False
+Rich Reward,SHD,261,Normal,Common,1,False
+Confiscate,SHD,262,Normal,Special,1,False
+Gar Saxon,SHD,263,Showcase,Common,1,True
+Qi'ra,SHD,264,Showcase,Rare,1,True
+Finn,SHD,265,Showcase,Rare,1,True
+Rey,SHD,266,Showcase,Common,1,True
+Hondo Ohnaka,SHD,267,Showcase,Common,1,True
+Jabba the Hutt,SHD,268,Showcase,Rare,1,True
+Moff Gideon,SHD,269,Showcase,Special,1,True
+Boba Fett,SHD,270,Showcase,Common,1,True
+Hunter,SHD,271,Showcase,Rare,1,True
+Bossk,SHD,272,Showcase,Common,1,True
+Kylo Ren,SHD,273,Showcase,Rare,1,True
+Bo-Katan Kryze,SHD,274,Showcase,Rare,1,True
+Han Solo,SHD,275,Showcase,Common,1,True
+Cad Bane,SHD,276,Showcase,Common,1,True
+Doctor Aphra,SHD,277,Showcase,Rare,1,True
+Fennec Shand,SHD,278,Showcase,Common,1,True
+Lando Calrissian,SHD,279,Showcase,Rare,1,True
+The Mandalorian,SHD,280,Showcase,Special,1,True
+Gar Saxon,SHD,281,Hyperspace,Common,1,False
+Qi'ra,SHD,282,Hyperspace,Rare,1,False
+Finn,SHD,283,Hyperspace,Rare,1,False
+Rey,SHD,284,Hyperspace,Common,1,False
+Hondo Ohnaka,SHD,285,Hyperspace,Common,1,False
+Jabba the Hutt,SHD,286,Hyperspace,Rare,1,False
+Boba Fett,SHD,287,Hyperspace,Common,1,False
+Hunter,SHD,288,Hyperspace,Rare,1,False
+Bossk,SHD,289,Hyperspace,Common,1,False
+Kylo Ren,SHD,290,Hyperspace,Rare,1,False
+Bo-Katan Kryze,SHD,291,Hyperspace,Rare,1,False
+Han Solo,SHD,292,Hyperspace,Common,1,False
+Cad Bane,SHD,293,Hyperspace,Common,1,False
+Doctor Aphra,SHD,294,Hyperspace,Rare,1,False
+Fennec Shand,SHD,295,Hyperspace,Common,1,False
+Lando Calrissian,SHD,296,Hyperspace,Rare,1,False
+Remnant Science Facility,SHD,297,Hyperspace,Common,1,False
+Remote Village,SHD,298,Hyperspace,Common,1,False
+Maz Kanata's Castle,SHD,299,Hyperspace,Common,1,False
+Nevarro City,SHD,300,Hyperspace,Common,1,False
+Death Watch Hideout,SHD,301,Hyperspace,Common,1,False
+Spice Mines,SHD,302,Hyperspace,Common,1,False
+Coronet City,SHD,303,Hyperspace,Common,1,False
+Jabba's Palace,SHD,304,Hyperspace,Common,1,False
+Hylobon Enforcer,SHD,305,Hyperspace,Common,1,False
+Doctor Pershing,SHD,306,Hyperspace,Rare,1,False
+Pyke Sentinel,SHD,307,Hyperspace,Common,1,False
+The Client,SHD,308,Hyperspace,Uncommon,1,False
+Lom Pyke,SHD,309,Hyperspace,Rare,1,False
+Synara San,SHD,310,Hyperspace,Uncommon,1,False
+Supercommando Squad,SHD,311,Hyperspace,Common,1,False
+Clan Saxon Gauntlet,SHD,312,Hyperspace,Uncommon,1,False
+First Light,SHD,313,Hyperspace,Rare,1,False
+Supreme Leader Snoke,SHD,314,Hyperspace,Legendary,1,False
+Brutal Traditions,SHD,315,Hyperspace,Uncommon,1,False
+Clan Wren Rescuer,SHD,316,Hyperspace,Common,1,False
+Kuiil,SHD,317,Hyperspace,Uncommon,1,False
+Concord Dawn Interceptors,SHD,318,Hyperspace,Uncommon,1,False
+Village Protectors,SHD,319,Hyperspace,Common,1,False
+Rose Tico,SHD,320,Hyperspace,Uncommon,1,False
+Rey,SHD,321,Hyperspace,Legendary,1,False
+The Armorer,SHD,322,Hyperspace,Uncommon,1,False
+Gentle Giant,SHD,323,Hyperspace,Common,1,False
+The Mandalorian,SHD,324,Hyperspace,Legendary,1,False
+Chewbacca,SHD,325,Hyperspace,Rare,1,False
+Mystic Reflection,SHD,326,Hyperspace,Rare,1,False
+Sugi,SHD,327,Hyperspace,Rare,1,False
+Second Chance,SHD,328,Hyperspace,Legendary,1,False
+Midnight Repairs,SHD,329,Hyperspace,Uncommon,1,False
+Moisture Farmer,SHD,330,Hyperspace,Common,1,False
+Follower of The Way,SHD,331,Hyperspace,Common,1,False
+Rickety Quadjumper,SHD,332,Hyperspace,Common,1,False
+Val,SHD,333,Hyperspace,Rare,1,False
+Embo,SHD,334,Hyperspace,Uncommon,1,False
+HWK-290 Freighter,SHD,335,Hyperspace,Common,1,False
+Wroshyr Tree Tender,SHD,336,Hyperspace,Common,1,False
+Niima Outpost Constables,SHD,337,Hyperspace,Common,1,False
+Survivors' Gauntlet,SHD,338,Hyperspace,Rare,1,False
+Vigilant Pursuit Craft,SHD,339,Hyperspace,Common,1,False
+Cargo Juggernaut,SHD,340,Hyperspace,Common,1,False
+Fenn Rau,SHD,341,Hyperspace,Uncommon,1,False
+Public Enemy,SHD,342,Hyperspace,Common,1,False
+Foundling,SHD,343,Hyperspace,Common,1,False
+Top Target,SHD,344,Hyperspace,Uncommon,1,False
+Imprisoned,SHD,345,Hyperspace,Rare,1,False
+Mandalorian Armor,SHD,346,Hyperspace,Rare,1,False
+Vambrace Grappleshot,SHD,347,Hyperspace,Common,1,False
+Covert Strength,SHD,348,Hyperspace,Common,1,False
+Unexpected Escape,SHD,349,Hyperspace,Uncommon,1,False
+Evidence of the Crime,SHD,350,Hyperspace,Rare,1,False
+Fell the Dragon,SHD,351,Hyperspace,Uncommon,1,False
+Rival's Fall,SHD,352,Hyperspace,Common,1,False
+Salacious Crumb,SHD,353,Hyperspace,Uncommon,1,False
+Outland TIE Vanguard,SHD,354,Hyperspace,Common,1,False
+Warbird Stowaway,SHD,355,Hyperspace,Common,1,False
+Crosshair,SHD,356,Hyperspace,Uncommon,1,False
+Ephant Mon,SHD,357,Hyperspace,Rare,1,False
+Pirate Battle Tank,SHD,358,Hyperspace,Common,1,False
+Maul,SHD,359,Hyperspace,Rare,1,False
+Jabba's Rancor,SHD,360,Hyperspace,Uncommon,1,False
+Finalizer,SHD,361,Hyperspace,Legendary,1,False
+Remnant Reserves,SHD,362,Hyperspace,Uncommon,1,False
+Palpatine's Return,SHD,363,Hyperspace,Rare,1,False
+Clone Deserter,SHD,364,Hyperspace,Common,1,False
+Maz Kanata,SHD,365,Hyperspace,Rare,1,False
+Freetown Backup,SHD,366,Hyperspace,Uncommon,1,False
+Sundari Peacekeeper,SHD,367,Hyperspace,Uncommon,1,False
+Echo,SHD,368,Hyperspace,Uncommon,1,False
+Modded Cohort,SHD,369,Hyperspace,Common,1,False
+Adelphi Patrol Wing,SHD,370,Hyperspace,Common,1,False
+The Marauder,SHD,371,Hyperspace,Rare,1,False
+General Rieekan,SHD,372,Hyperspace,Rare,1,False
+Inspiring Mentor,SHD,373,Hyperspace,Rare,1,False
+Spark of Hope,SHD,374,Hyperspace,Uncommon,1,False
+Rule with Respect,SHD,375,Hyperspace,Legendary,1,False
+Enterprising Lackeys,SHD,376,Hyperspace,Rare,1,False
+Enforced Loyalty,SHD,377,Hyperspace,Uncommon,1,False
+Endless Legions,SHD,378,Hyperspace,Legendary,1,False
+Warzone Lieutenant,SHD,379,Hyperspace,Common,1,False
+Collections Starhopper,SHD,380,Hyperspace,Common,1,False
+Gamorrean Retainer,SHD,381,Hyperspace,Common,1,False
+Privateer Crew,SHD,382,Hyperspace,Uncommon,1,False
+Scanning Officer,SHD,383,Hyperspace,Uncommon,1,False
+Cobb Vanth,SHD,384,Hyperspace,Rare,1,False
+Outlaw Corona,SHD,385,Hyperspace,Common,1,False
+Reputable Hunter,SHD,386,Hyperspace,Common,1,False
+Kihraxz Heavy Fighter,SHD,387,Hyperspace,Uncommon,1,False
+Weequay Pirate Gang,SHD,388,Hyperspace,Common,1,False
+Discerning Veteran,SHD,389,Hyperspace,Common,1,False
+Mercenary Company,SHD,390,Hyperspace,Common,1,False
+Arquitens Assault Cruiser,SHD,391,Hyperspace,Rare,1,False
+Bounty Hunter's Quarry,SHD,392,Hyperspace,Uncommon,1,False
+Legal Authority,SHD,393,Hyperspace,Rare,1,False
+Price on Your Head,SHD,394,Hyperspace,Common,1,False
+The Darksaber,SHD,395,Hyperspace,Legendary,1,False
+Commission,SHD,396,Hyperspace,Uncommon,1,False
+Outflank,SHD,397,Hyperspace,Common,1,False
+Timely Intervention,SHD,398,Hyperspace,Common,1,False
+Moment of Glory,SHD,399,Hyperspace,Common,1,False
+Take Captive,SHD,400,Hyperspace,Common,1,False
+Choose Sides,SHD,401,Hyperspace,Rare,1,False
+Dengar,SHD,402,Hyperspace,Uncommon,1,False
+Guavian Antagonizer,SHD,403,Hyperspace,Common,1,False
+Kylo's TIE Silencer,SHD,404,Hyperspace,Legendary,1,False
+Death Watch Loyalist,SHD,405,Hyperspace,Common,1,False
+Punishing One,SHD,406,Hyperspace,Uncommon,1,False
+Jango Fett,SHD,407,Hyperspace,Rare,1,False
+Krrsantan,SHD,408,Hyperspace,Uncommon,1,False
+Trandoshan Hunters,SHD,409,Hyperspace,Common,1,False
+Kylo Ren,SHD,410,Hyperspace,Legendary,1,False
+Pre Vizsla,SHD,411,Hyperspace,Rare,1,False
+Ruthlessness,SHD,412,Hyperspace,Rare,1,False
+Give In to Your Anger,SHD,413,Hyperspace,Rare,1,False
+Headhunting,SHD,414,Hyperspace,Uncommon,1,False
+Heroic Renegade,SHD,415,Hyperspace,Common,1,False
+Ketsu Onyo,SHD,416,Hyperspace,Uncommon,1,False
+Cassian Andor,SHD,417,Hyperspace,Uncommon,1,False
+Nite Owl Skirmisher,SHD,418,Hyperspace,Common,1,False
+Koska Reeves,SHD,419,Hyperspace,Rare,1,False
+Valiant Assault Ship,SHD,420,Hyperspace,Uncommon,1,False
+Desperado Freighter,SHD,421,Hyperspace,Common,1,False
+Poe Dameron,SHD,422,Hyperspace,Legendary,1,False
+Wrecker,SHD,423,Hyperspace,Rare,1,False
+Heroic Resolve,SHD,424,Hyperspace,Rare,1,False
+Cripple Authority,SHD,425,Hyperspace,Uncommon,1,False
+Bo-Katan Kryze,SHD,426,Hyperspace,Uncommon,1,False
+Wild Rancor,SHD,427,Hyperspace,Rare,1,False
+The Chaos of War,SHD,428,Hyperspace,Rare,1,False
+Reckless Gunslinger,SHD,429,Hyperspace,Common,1,False
+Stolen Landspeeder,SHD,430,Hyperspace,Rare,1,False
+House Kast Soldier,SHD,431,Hyperspace,Common,1,False
+Migs Mayfeld,SHD,432,Hyperspace,Rare,1,False
+Rhokai Gunship,SHD,433,Hyperspace,Common,1,False
+Unlicensed Headhunter,SHD,434,Hyperspace,Uncommon,1,False
+Disabling Fang Fighter,SHD,435,Hyperspace,Common,1,False
+Wanted Insurgents,SHD,436,Hyperspace,Common,1,False
+Hunting Nexu,SHD,437,Hyperspace,Common,1,False
+Clan Challengers,SHD,438,Hyperspace,Common,1,False
+IG-11,SHD,439,Hyperspace,Uncommon,1,False
+Covetous Rivals,SHD,440,Hyperspace,Common,1,False
+Krayt Dragon,SHD,441,Hyperspace,Legendary,1,False
+Guild Target,SHD,442,Hyperspace,Uncommon,1,False
+Hotshot DL-44 Blaster,SHD,443,Hyperspace,Rare,1,False
+Armed to the Teeth,SHD,444,Hyperspace,Uncommon,1,False
+Death Mark,SHD,445,Hyperspace,Common,1,False
+Vambrace Flamethrower,SHD,446,Hyperspace,Rare,1,False
+Daring Raid,SHD,447,Hyperspace,Common,1,False
+Desperate Attack,SHD,448,Hyperspace,Common,1,False
+Detention Block Rescue,SHD,449,Hyperspace,Common,1,False
+Pillage,SHD,450,Hyperspace,Common,1,False
+Bravado,SHD,451,Hyperspace,Uncommon,1,False
+Kintan Intimidator,SHD,452,Hyperspace,Common,1,False
+Bazine Netal,SHD,453,Hyperspace,Rare,1,False
+Doctor Evazan,SHD,454,Hyperspace,Rare,1,False
+Hunter of the Haxion Brood,SHD,455,Hyperspace,Common,1,False
+Lurking TIE Phantom,SHD,456,Hyperspace,Uncommon,1,False
+4-LOM,SHD,457,Hyperspace,Uncommon,1,False
+Slaver's Freighter,SHD,458,Hyperspace,Common,1,False
+Zuckuss,SHD,459,Hyperspace,Uncommon,1,False
+Xanadu Blood,SHD,460,Hyperspace,Rare,1,False
+Dryden Vos,SHD,461,Hyperspace,Legendary,1,False
+Frozen in Carbonite,SHD,462,Hyperspace,Uncommon,1,False
+Triple Dark Raid,SHD,463,Hyperspace,Rare,1,False
+Cartel Turncoat,SHD,464,Hyperspace,Common,1,False
+L3-37,SHD,465,Hyperspace,Uncommon,1,False
+Omega,SHD,466,Hyperspace,Rare,1,False
+Coruscant Dissident,SHD,467,Hyperspace,Uncommon,1,False
+Liberated Slaves,SHD,468,Hyperspace,Common,1,False
+Principled Outlaw,SHD,469,Hyperspace,Common,1,False
+Qi'ra,SHD,470,Hyperspace,Rare,1,False
+Zorii Bliss,SHD,471,Hyperspace,Rare,1,False
+Millennium Falcon,SHD,472,Hyperspace,Uncommon,1,False
+Let the Wookiee Win,SHD,473,Hyperspace,Rare,1,False
+Spare the Target,SHD,474,Hyperspace,Uncommon,1,False
+A New Adventure,SHD,475,Hyperspace,Uncommon,1,False
+Final Showdown,SHD,476,Hyperspace,Legendary,1,False
+Criminal Muscle,SHD,477,Hyperspace,Common,1,False
+Cloud-Rider,SHD,478,Hyperspace,Common,1,False
+Fugitive Wookiee,SHD,479,Hyperspace,Common,1,False
+Privateer Scyk,SHD,480,Hyperspace,Common,1,False
+DJ,SHD,481,Hyperspace,Legendary,1,False
+Frontier Trader,SHD,482,Hyperspace,Common,1,False
+Smuggler's Starfighter,SHD,483,Hyperspace,Common,1,False
+Chain Code Collector,SHD,484,Hyperspace,Common,1,False
+Tobias Beckett,SHD,485,Hyperspace,Rare,1,False
+Resourceful Pursuers,SHD,486,Hyperspace,Common,1,False
+Enfys Nest,SHD,487,Hyperspace,Uncommon,1,False
+Fennec Shand,SHD,488,Hyperspace,Uncommon,1,False
+Wanted,SHD,489,Hyperspace,Common,1,False
+Enticing Reward,SHD,490,Hyperspace,Uncommon,1,False
+Boba Fett's Armor,SHD,491,Hyperspace,Rare,1,False
+Jetpack,SHD,492,Hyperspace,Uncommon,1,False
+Unrefusable Offer,SHD,493,Hyperspace,Rare,1,False
+Look the Other Way,SHD,494,Hyperspace,Common,1,False
+Bounty Posting,SHD,495,Hyperspace,Uncommon,1,False
+Ma Klounkee,SHD,496,Hyperspace,Common,1,False
+Swoop Down,SHD,497,Hyperspace,Rare,1,False
+Surprise Strike,SHD,498,Hyperspace,Common,1,False
+Relentless Pursuit,SHD,499,Hyperspace,Common,1,False
+Evacuate,SHD,500,Hyperspace,Legendary,1,False
+Ruthless Assassin,SHD,501,Hyperspace,Common,1,False
+Black Sun Starfighter,SHD,502,Hyperspace,Common,1,False
+Toro Calican,SHD,503,Hyperspace,Uncommon,1,False
+Hutt's Henchmen,SHD,504,Hyperspace,Common,1,False
+Kragan Gorr,SHD,505,Hyperspace,Rare,1,False
+Altering the Deal,SHD,506,Hyperspace,Rare,1,False
+No Bargain,SHD,507,Hyperspace,Common,1,False
+Grey Squadron Y-Wing,SHD,508,Hyperspace,Common,1,False
+Protector of the Throne,SHD,509,Hyperspace,Common,1,False
+Tech,SHD,510,Hyperspace,Rare,1,False
+Wookiee Warrior,SHD,511,Hyperspace,Common,1,False
+Tarfful,SHD,512,Hyperspace,Rare,1,False
+Smuggler's Aid,SHD,513,Hyperspace,Common,1,False
+This Is The Way,SHD,514,Hyperspace,Uncommon,1,False
+Bounty Guild Initiate,SHD,515,Hyperspace,Common,1,False
+Lady Proxima,SHD,516,Hyperspace,Uncommon,1,False
+Mercenary Gunship,SHD,517,Hyperspace,Uncommon,1,False
+Underworld Thug,SHD,518,Hyperspace,Common,1,False
+Mandalorian Warrior,SHD,519,Hyperspace,Common,1,False
+Twin Pod Cloud Car,SHD,520,Hyperspace,Common,1,False
+Street Gang Recruiter,SHD,521,Hyperspace,Common,1,False
+Rich Reward,SHD,522,Hyperspace,Common,1,False

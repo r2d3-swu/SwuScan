@@ -1,0 +1,6 @@
+/.idea/
+/target/
+/SwuScanDesktop.iml
+/scripts/.venv/
+/output_collection.csv
+/.gitattributes
