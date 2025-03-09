@@ -189,7 +189,7 @@ public class Main {
                     bulkMode = true;
                 }
                 if (ZERO.contains(key)) {
-                    logInfo("Reset");
+                    logDebug("Reset");
                     foundCard = null;
                     displayText = SCANNING_TEXT;
                 }

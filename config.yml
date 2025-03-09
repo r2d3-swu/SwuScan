@@ -2,7 +2,7 @@
 WEBCAM_ID: 2
 
 # ALL, SOR, SHD, TWI or JTL. Toggle with "s"
-START_SET: TWI
+START_SET: JTL
 
 # INFO or DEBUG
 LOG_LEVEL: INFO

@@ -11,8 +11,11 @@ If the program is restarted the csv will reset before a new card is added.
 
 ## Run 
 (in terminal):
-* mvn clean install
+* mvn clean install (once)
 * mvn exec:java
+or (windows)
+* click install.bat (once)
+* click run.bat
 
 If webcam not working try changing WEBCAM_ID in config.yml to something else
 (0 = first cam, 1 = second cam etc.)
