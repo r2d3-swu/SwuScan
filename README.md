@@ -5,16 +5,17 @@ Will create a CSV file at output_collection.csv that can be uploaded to
 swudb.com/collection -> Bulk Actions -> CSV import
 If the program is restarted the csv will reset before a new card is added. 
 
-## Install:
+## Pre requisites:
 * Java - https://learn.microsoft.com/en-us/java/openjdk/download#openjdk-21
 * Maven - https://www.baeldung.com/install-maven-on-windows-linux-mac
 
-## Run 
+## Install & Run 
 (in terminal):
-* mvn clean install (once)
-* mvn exec:java
+* mvn clean install (install)
+* mvn exec:java (run)
+
 or (windows)
-* click install.bat (once)
+* click install.bat
 * click run.bat
 
 If webcam not working try changing WEBCAM_ID in config.yml to something else
