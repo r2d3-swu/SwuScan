@@ -3,6 +3,7 @@
 App for scanning cards in Star Wars Unlimited.
 Will create a CSV file at output_collection.csv that can be uploaded to
 swudb.com/collection -> Bulk Actions -> CSV import
+
 If the program is restarted the csv will reset before a new card is added. 
 
 ## Pre requisites:
@@ -32,8 +33,8 @@ Using a smartphone as webcam makes it easier to use:
 
 Note: only tested on windows
 
-## To add new set
-How add a new set
+### How to add a new set
+
 * cd scripts
 * Change "SET" in and run generate_swudb_input.py
 * Go to swudb.com (account with empty collection)
