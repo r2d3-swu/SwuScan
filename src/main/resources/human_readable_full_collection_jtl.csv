@@ -72,7 +72,7 @@ U-Wing Lander,JTL,070,Normal,Uncommon,1,False
 CR90 Relief Runner,JTL,071,Normal,Common,1,False
 Wing Guard Security Team,JTL,072,Normal,Uncommon,1,False
 Grim Valor,JTL,073,Normal,Uncommon,1,False
-Close the Shieldgate,JTL,074,Normal,Rare,1,False
+Close the Shield Gate,JTL,074,Normal,Rare,1,False
 Repair,JTL,075,Normal,Common,1,False
 Covering the Wing,JTL,076,Normal,Common,1,False
 In the Heat of Battle,JTL,077,Normal,Rare,1,False
@@ -161,7 +161,7 @@ Determined Recruit,JTL,159,Normal,Common,1,False
 Supporting Eta-2,JTL,160,Normal,Common,1,False
 Captain Tarkin,JTL,161,Normal,Uncommon,1,False
 Droid Missile Platform,JTL,162,Normal,Common,1,False
-AT-DP Occupier,JTL,163,Normal,Uncommon,1,False
+AT-DP Occupier,JTL,163,Normal,Common,1,False
 Cham Syndulla,JTL,164,Normal,Uncommon,1,False
 Hunting Aggressor,JTL,165,Normal,Uncommon,1,False
 Orbiting K-Wing,JTL,166,Normal,Common,1,False
@@ -217,10 +217,10 @@ BoShek,JTL,215,Normal,Uncommon,1,False
 Contracted Hunter,JTL,216,Normal,Uncommon,1,False
 Death Space Skirmisher,JTL,217,Normal,Common,1,False
 Guerilla Soldier,JTL,218,Normal,Common,1,False
-Rafa Martinez,JTL,219,Normal,Uncommon,1,False
+Rafa Martez,JTL,219,Normal,Uncommon,1,False
 Skyway Cloud Car,JTL,220,Normal,Common,1,False
 Stolen AT-Hauler,JTL,221,Normal,Legendary,1,False
-Kimogila Heavy Fighter,JTL,222,Normal,Uncommon,1,False
+Kimogila Heavy Fighter,JTL,222,Normal,Common,1,False
 Razor Crest,JTL,223,Normal,Uncommon,1,False
 Shadowed Hover Tank,JTL,224,Normal,Common,1,False
 Corporate Light Cruiser,JTL,225,Normal,Common,1,False
@@ -334,7 +334,7 @@ U-Wing Lander,JTL,332,Hyperspace,Uncommon,1,False
 CR90 Relief Runner,JTL,333,Hyperspace,Common,1,False
 Wing Guard Security Team,JTL,334,Hyperspace,Uncommon,1,False
 Grim Valor,JTL,335,Hyperspace,Uncommon,1,False
-Close the Shieldgate,JTL,336,Hyperspace,Rare,1,False
+Close the Shield Gate,JTL,336,Hyperspace,Rare,1,False
 Repair,JTL,337,Hyperspace,Common,1,False
 Covering the Wing,JTL,338,Hyperspace,Common,1,False
 In the Heat of Battle,JTL,339,Hyperspace,Rare,1,False
@@ -378,7 +378,7 @@ Adept ARC-170,JTL,376,Hyperspace,Common,1,False
 Clone Combat Squadron,JTL,377,Hyperspace,Uncommon,1,False
 Dornean Gunship,JTL,378,Hyperspace,Uncommon,1,False
 General Draven,JTL,379,Hyperspace,Rare,1,False
-MC30 Assault Frigate,JTL,380,Normal,Common,1,False
+MC30 Assault Frigate,JTL,380,Hyperspace,Common,1,False
 Resupply Carrier,JTL,381,Hyperspace,Common,1,False
 Dorsal Turret,JTL,382,Hyperspace,Common,1,False
 Salvage,JTL,383,Hyperspace,Uncommon,1,False
@@ -388,7 +388,7 @@ Tandem Assault,JTL,386,Hyperspace,Common,1,False
 Air Superiority,JTL,387,Hyperspace,Common,1,False
 Eject,JTL,388,Hyperspace,Rare,1,False
 Lightspeed Assault,JTL,389,Hyperspace,Rare,1,False
-Prepare for Takeoff,JTL,390,Hyperspace,Uncommon,1,False
+Prepare for Takeoff,JTL,390,Hyperspace,Common,1,False
 Focus Fire,JTL,391,Hyperspace,Common,1,False
 Timely Reinforcements,JTL,392,Hyperspace,Uncommon,1,False
 Turbolaser Salvo,JTL,393,Hyperspace,Legendary,1,False
@@ -423,13 +423,14 @@ Determined Recruit,JTL,421,Hyperspace,Common,1,False
 Supporting Eta-2,JTL,422,Hyperspace,Common,1,False
 Captain Tarkin,JTL,423,Hyperspace,Uncommon,1,False
 Droid Missile Platform,JTL,424,Hyperspace,Common,1,False
-AT-DP Occupier,JTL,425,Hyperspace,Uncommon,1,False
+AT-DP Occupier,JTL,425,Hyperspace,Common,1,False
 Cham Syndulla,JTL,426,Hyperspace,Uncommon,1,False
 Hunting Aggressor,JTL,427,Hyperspace,Uncommon,1,False
 Orbiting K-Wing,JTL,428,Hyperspace,Common,1,False
 Occupier Siege Tank,JTL,429,Hyperspace,Common,1,False
 Insurgent Saboteurs,JTL,430,Hyperspace,Common,1,False
 Shadow Caster,JTL,431,Hyperspace,Legendary,1,False
+War Juggernaut,JTL,432,Hyperspace,Uncommon,1,False
 Targeting Computer,JTL,433,Hyperspace,Rare,1,False
 Twin Laser Turret,JTL,434,Hyperspace,Common,1,False
 Fight Fire With Fire,JTL,435,Hyperspace,Common,1,False
@@ -469,3 +470,56 @@ Fly Casual,JTL,468,Hyperspace,Uncommon,1,False
 Jam Communications,JTL,469,Hyperspace,Rare,1,False
 Never Tell Me The Odds,JTL,470,Hyperspace,Special,1,False
 It's a Trap,JTL,471,Hyperspace,Rare,1,False
+The Mandalorian,JTL,472,Hyperspace,Uncommon,1,False
+Independent Smuggler,JTL,473,Hyperspace,Common,1,False
+Republic Y-Wing,JTL,474,Hyperspace,Common,1,False
+Sidon Ithano,JTL,475,Hyperspace,Rare,1,False
+X-34 Landspeeder,JTL,476,Hyperspace,Common,1,False
+BoShek,JTL,477,Hyperspace,Uncommon,1,False
+Contracted Hunter,JTL,478,Hyperspace,Uncommon,1,False
+Death Space Skirmisher,JTL,479,Hyperspace,Common,1,False
+Guerilla Soldier,JTL,480,Hyperspace,Common,1,False
+Rafa Martez,JTL,481,Hyperspace,Uncommon,1,False
+Skyway Cloud Car,JTL,482,Hyperspace,Common,1,False
+Stolen AT-Hauler,JTL,483,Hyperspace,Legendary,1,False
+Kimogila Heavy Fighter,JTL,484,Hyperspace,Common,1,False
+Razor Crest,JTL,485,Hyperspace,Uncommon,1,False
+Shadowed Hover Tank,JTL,486,Hyperspace,Common,1,False
+Corporate Light Cruiser,JTL,487,Hyperspace,Common,1,False
+Radiant VII,JTL,488,Hyperspace,Legendary,1,False
+Superheavy Ion Cannon,JTL,489,Hyperspace,Rare,1,False
+Barrel Roll,JTL,490,Hyperspace,Common,1,False
+Diversion,JTL,491,Hyperspace,Common,1,False
+Electromagnetic Pulse,JTL,492,Hyperspace,Common,1,False
+Punch It,JTL,493,Hyperspace,Common,1,False
+Jump to Lightspeed,JTL,494,Hyperspace,Rare,1,False
+Sweep the Area,JTL,495,Hyperspace,Uncommon,1,False
+Torpedo Barrage,JTL,496,Hyperspace,Common,1,False
+Commandeer,JTL,497,Hyperspace,Rare,1,False
+Indoctrinated Conscript,JTL,498,Hyperspace,Common,1,False
+TIE Bomber,JTL,499,Hyperspace,Common,1,False
+Sith Trooper,JTL,500,Hyperspace,Common,1,False
+TIE Dagger Vanguard,JTL,501,Hyperspace,Common,1,False
+Fett's Firespray,JTL,502,Hyperspace,Special,1,False
+Rogue-class Starfighter,JTL,503,Hyperspace,Common,1,False
+Shuttle ST-149,JTL,504,Hyperspace,Uncommon,1,False
+Quasar TIE Carrier,JTL,505,Hyperspace,Common,1,False
+There Is No Escape,JTL,506,Hyperspace,Rare,1,False
+R2-D2,JTL,507,Hyperspace,Uncommon,1,False
+Hopeful Volunteer,JTL,508,Hyperspace,Common,1,False
+Resistance X-Wing,JTL,509,Hyperspace,Common,1,False
+Dilapidated Ski Speeder,JTL,510,Hyperspace,Common,1,False
+Millennium Falcon,JTL,511,Hyperspace,Special,1,False
+Sabine's Masterpiece,JTL,512,Hyperspace,Rare,1,False
+Jedi Light Cruiser,JTL,513,Hyperspace,Common,1,False
+Tantive IV,JTL,514,Hyperspace,Uncommon,1,False
+Coordinated Front,JTL,515,Hyperspace,Common,1,False
+Dedicated Wingmen,JTL,516,Hyperspace,Common,1,False
+Sullustan Spacer,JTL,517,Hyperspace,Common,1,False
+Swarming Vulture Droid,JTL,518,Hyperspace,Common,1,False
+Flanking Fang Fighter,JTL,519,Hyperspace,Common,1,False
+Corellian Freighter,JTL,520,Hyperspace,Common,1,False
+Retrofitted Airspeeder,JTL,521,Hyperspace,Uncommon,1,False
+Death Star Plans,JTL,522,Hyperspace,Legendary,1,False
+Attack Run,JTL,523,Hyperspace,Common,1,False
+Evasive Maneuver,JTL,524,Hyperspace,Common,1,False
