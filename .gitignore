@@ -4,3 +4,4 @@
 /scripts/.venv/
 /output_collection.csv
 /.gitattributes
+/overrideConfig.yml
