@@ -179,7 +179,6 @@ public class Main {
                         displayText = SCANNING_TEXT;
                     } else if (saveHyperspaceCard(foundCard, true)) {
                         logTempText("Added hyperspace foil " + foundCard.getUniqueDisplayName() + " to csv");
-                        saveCard(foundCard, false, 1);
                         foundCard = null;
                         displayText = SCANNING_TEXT;
                     }
