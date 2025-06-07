@@ -10,6 +10,7 @@ import java.util.*;
 public class ImageMatcher {
 
     private static final HashMap<String, List<File>> images = new HashMap<>();
+    public static final int MATCH_THRESHOLD = 1;
 
     static {
         Main.PLAYABLE_SETS.forEach(set -> {
@@ -84,7 +85,7 @@ public class ImageMatcher {
 
         var matchResult = results.max(Comparator.comparingInt(MatchResult::getMatches)).orElse(new MatchResult());
         Main.logDebug("Score: " + matchResult.matches);
-        if (matchResult.matches < 20){
+        if (matchResult.matches < MATCH_THRESHOLD){
             return null;
         }
         return matchResult.card;

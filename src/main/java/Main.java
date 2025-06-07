@@ -33,9 +33,11 @@ public class Main {
 
     private static final String SCANNING_TEXT = "Scanning...";
     private static final String LOADING_TEXT = "Loading...";
-    private static final String OPTIONS_TEXT = "? \n1(N)/2(H)/3(F)/4(HF) to add. \n0 to reset. 5 to add bulk";
+    private static final String OPTIONS_TEXT_ENABLED = "? \n1(N)/2(H)/3(F)/4(HF) to add. \n0 to reset. 5 to add bulk";
+    private static final String OPTIONS_TEXT_DISABLED = "? \n1(N)/3(F) to add (HySp n/a). \n0 to reset. 5 to add bulk";
+    private static String optionsText = OPTIONS_TEXT_ENABLED;
     private static int setId;
-    private static final List<String> SETS = List.of("ALL", "SOR", "SHD", "TWI", "JTL");
+    private static final List<String> SETS = List.of("ALL", "SOR", "SHD", "TWI", "JTL", "LOF");
 
 
     public static final List<String> PLAYABLE_SETS = SETS.stream().filter(s -> !Objects.equals(s, "ALL")).toList();
@@ -49,6 +51,7 @@ public class Main {
     private static Instant timeToDisplay = Instant.MIN;
     private static boolean debugMode = false;
     private static boolean bulkMode = false;
+    private static boolean disabledMode = false;
     private static final Map<Integer, Integer> bulkAmount = new HashMap<>();
 
     private static int selected = 0;
@@ -84,6 +87,14 @@ public class Main {
             if (capture.read(frame)) {
                 // Perform OCR every second
                 // Add the display text to the frame with a black box behind it
+
+                if("LOF".equals(SETS.get(setId))){
+                    disabledMode = true;
+                    optionsText = OPTIONS_TEXT_DISABLED;
+                } else {
+                    disabledMode = false;
+                    optionsText = OPTIONS_TEXT_ENABLED;
+                }
 
                 addTextToFrame(frame, displayText);
                 var key = HighGui.pressedKey;
@@ -135,7 +146,7 @@ public class Main {
 //                        foundCard = new Card("SHD","testcard","000");
                         TimeMeasure.end("Search "+SETS.get(setId)+" Cards");
                         if (foundCard != null) {
-                            displayText = foundCard.getUniqueDisplayName() + OPTIONS_TEXT;
+                            displayText = foundCard.getUniqueDisplayName() + optionsText;
                         } else {
                             displayText = SCANNING_TEXT;
                         }
@@ -148,7 +159,7 @@ public class Main {
                     foundCard = null;
                     displayText = SCANNING_TEXT;
                 }
-                if (TWO.contains(key) && foundCard != null) {
+                if (TWO.contains(key) && foundCard != null && !disabledMode) {
                     if (displayText.equals(BULK_TEXT)) {
                         logTempText("Added 2 regular " + foundCard.getUniqueDisplayName() + " to csv");
                         saveCard(foundCard, false, 2);
@@ -171,7 +182,7 @@ public class Main {
                     foundCard = null;
                     displayText = SCANNING_TEXT;
                 }
-                if (FOUR.contains(key) && foundCard != null) {
+                if (FOUR.contains(key) && foundCard != null && !disabledMode) {
                     if (displayText.equals(BULK_TEXT)) {
                         logTempText("Added 4 regular " + foundCard.getUniqueDisplayName() + " to csv");
                         saveCard(foundCard, false, 4);
@@ -222,7 +233,7 @@ public class Main {
                     resetBulkAmount();
                     bulkMode = false;
                     selected = 0;
-                    displayText = foundCard.getUniqueDisplayName() + OPTIONS_TEXT;
+                    displayText = foundCard.getUniqueDisplayName() + optionsText;
                 }
                 if (ENTER.contains(key) && foundCard != null) {
                     if(bulkMode){

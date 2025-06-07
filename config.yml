@@ -1,7 +1,7 @@
 # Change which camera to read from.
 WEBCAM_ID: 0
 
-# ALL, SOR, SHD, TWI or JTL. Toggle with "s"
+# ALL, SOR, SHD, TWI, JTL or LOF. Toggle with "s"
 START_SET: JTL
 
 # INFO or DEBUG
