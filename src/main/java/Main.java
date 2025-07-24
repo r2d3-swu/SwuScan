@@ -88,13 +88,8 @@ public class Main {
                 // Perform OCR every second
                 // Add the display text to the frame with a black box behind it
 
-                if("LOF".equals(SETS.get(setId))){
-                    disabledMode = true;
-                    optionsText = OPTIONS_TEXT_DISABLED;
-                } else {
-                    disabledMode = false;
-                    optionsText = OPTIONS_TEXT_ENABLED;
-                }
+                disabledMode = false;
+                optionsText = OPTIONS_TEXT_ENABLED;
 
                 addTextToFrame(frame, displayText);
                 var key = HighGui.pressedKey;
