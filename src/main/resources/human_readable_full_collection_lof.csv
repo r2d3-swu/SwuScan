@@ -6,7 +6,7 @@ Kanan Jarrus,LOF,004,Normal,Rare,1,False
 Morgan Elsbeth,LOF,005,Normal,Rare,1,False
 Supreme Leader Snoke,LOF,006,Normal,Common,1,False
 Avar Kriss,LOF,007,Normal,Rare,1,False
-Ob-Wan Kenobi,LOF,008,Normal,Common,1,False
+Obi-Wan Kenobi,LOF,008,Normal,Common,1,False
 Darth Maul,LOF,009,Normal,Special,1,False
 Third Sister,LOF,010,Normal,Common,1,False
 Kit Fisto,LOF,011,Normal,Common,1,False
@@ -59,7 +59,7 @@ Owen Lars,LOF,057,Normal,Uncommon,1,False
 Guardian of the Whills,LOF,058,Normal,Common,1,False
 Nightsister Warrior,LOF,059,Normal,Common,1,False
 Padawan Starfighter,LOF,060,Normal,Common,1,False
-Secret Sage,LOF,061,Normal,Common,1,False
+Secretive Sage,LOF,061,Normal,Common,1,False
 Axe Woves,LOF,062,Normal,Rare,1,False
 Oggdo Bogdo,LOF,063,Normal,Rare,1,False
 Tauntaun,LOF,064,Normal,Common,1,False
@@ -263,3 +263,267 @@ Constructed Lightsaber,LOF,261,Normal,Legendary,1,False
 Go Into Hiding,LOF,262,Normal,Common,1,False
 Last Words,LOF,263,Normal,Common,1,False
 It's Worse,LOF,264,Normal,Common,1,False
+Kylo Ren,LOF,265,Hyperspace,Rare,1,False
+Mother Talzin,LOF,266,Hyperspace,Common,1,False
+Ahsoka Tano,LOF,267,Hyperspace,Common,1,False
+Kanan Jarrus,LOF,268,Hyperspace,Rare,1,False
+Morgan Elsbeth,LOF,269,Hyperspace,Rare,1,False
+Supreme Leader Snoke,LOF,270,Hyperspace,Common,1,False
+Avar Kriss,LOF,271,Hyperspace,Rare,1,False
+Obi-Wan Kenobi,LOF,272,Hyperspace,Common,1,False
+Darth Maul,LOF,273,Hyperspace,Special,1,False
+Third Sister,LOF,274,Hyperspace,Common,1,False
+Kit Fisto,LOF,275,Hyperspace,Common,1,False
+Rey,LOF,276,Hyperspace,Rare,1,False
+Barriss Offee,LOF,277,Hyperspace,Rare,1,False
+Grand Inquisitor,LOF,278,Hyperspace,Common,1,False
+Cal Kestis,LOF,279,Hyperspace,Common,1,False
+Qui-Gon Jinn,LOF,280,Hyperspace,Special,1,False
+Darth Revan,LOF,281,Hyperspace,Rare,1,False
+Anakin Skywalker,LOF,282,Hyperspace,Rare,1,False
+Vergence Temple,LOF,283,Hyperspace,Rare,1,False
+Nightsister Lair,LOF,284,Hyperspace,Common,1,False
+Shadowed Undercity,LOF,285,Hyperspace,Common,1,False
+Mystic Monastery,LOF,286,Hyperspace,Rare,1,False
+Jedi Temple,LOF,287,Hyperspace,Common,1,False
+Starlight Temple,LOF,288,Hyperspace,Common,1,False
+Temple of Destruction,LOF,289,Hyperspace,Rare,1,False
+Fortress Vader,LOF,290,Hyperspace,Common,1,False
+Strangled Cliffs,LOF,291,Hyperspace,Common,1,False
+Tomb of Eilram,LOF,292,Hyperspace,Rare,1,False
+Crystal Caves,LOF,293,Hyperspace,Common,1,False
+The Holy City,LOF,294,Hyperspace,Common,1,False
+Karis,LOF,295,Hyperspace,Uncommon,1,False
+Magistrate's Scout,LOF,296,Hyperspace,Common,1,False
+Nameless Terror,LOF,297,Hyperspace,Uncommon,1,False
+Supremacy TIE sf,LOF,298,Hyperspace,Common,1,False
+Talzin's Assassin,LOF,299,Hyperspace,Common,1,False
+Old Daka,LOF,300,Hyperspace,Uncommon,1,False
+Darth Vader,LOF,301,Hyperspace,Legendary,1,False
+Pong Krell,LOF,302,Hyperspace,Rare,1,False
+Darth Sidious,LOF,303,Hyperspace,Special,1,False
+Kylo Ren's Lightsaber,LOF,304,Hyperspace,Rare,1,False
+Drain Essence,LOF,305,Hyperspace,Common,1,False
+Always Two,LOF,306,Hyperspace,Legendary,1,False
+The Tragedy of Plagueis,LOF,307,Hyperspace,Rare,1,False
+Loth-Wolf,LOF,308,Hyperspace,Common,1,False
+Yaddle,LOF,309,Hyperspace,Rare,1,False
+Ezra Bridger,LOF,310,Hyperspace,Uncommon,1,False
+T-6 Shuttle 1974,LOF,311,Hyperspace,Rare,1,False
+Itinerant Warrior,LOF,312,Hyperspace,Common,1,False
+Jedi Guardian,LOF,313,Hyperspace,Common,1,False
+Plo Koon,LOF,314,Hyperspace,Uncommon,1,False
+Jedi Holocron,LOF,315,Hyperspace,Rare,1,False
+Jedi Trials,LOF,316,Hyperspace,Rare,1,False
+Heirloom Lightsaber,LOF,317,Hyperspace,Common,1,False
+Calm in the Storm,LOF,318,Hyperspace,Uncommon,1,False
+Dume,LOF,319,Hyperspace,Rare,1,False
+Size Matters Not,LOF,320,Hyperspace,Rare,1,False
+Owen Lars,LOF,321,Hyperspace,Uncommon,1,False
+Guardian of the Whills,LOF,322,Hyperspace,Common,1,False
+Nightsister Warrior,LOF,323,Hyperspace,Common,1,False
+Padawan Starfighter,LOF,324,Hyperspace,Common,1,False
+Secretive Sage,LOF,325,Hyperspace,Common,1,False
+Axe Woves,LOF,326,Hyperspace,Rare,1,False
+Oggdo Bogdo,LOF,327,Hyperspace,Rare,1,False
+Tauntaun,LOF,328,Hyperspace,Common,1,False
+Watto,LOF,329,Hyperspace,Uncommon,1,False
+Awakened Specters,LOF,330,Hyperspace,Common,1,False
+Chirrut Imwe,LOF,331,Hyperspace,Uncommon,1,False
+Luthen Rael,LOF,332,Hyperspace,Uncommon,1,False
+Graceful Purrgil,LOF,333,Hyperspace,Common,1,False
+Anakin Skywalker,LOF,334,Hyperspace,Legendary,1,False
+Grappling Guardian,LOF,335,Hyperspace,Common,1,False
+Priestesses of the Force,LOF,336,Hyperspace,Uncommon,1,False
+Mythosaur,LOF,337,Hyperspace,Legendary,1,False
+Bolstered Endurance,LOF,338,Hyperspace,Common,1,False
+Cure Wounds,LOF,339,Hyperspace,Common,1,False
+Soresu Stance,LOF,340,Hyperspace,Uncommon,1,False
+Crushing Blow,LOF,341,Hyperspace,Common,1,False
+Whirlwind of Power,LOF,342,Hyperspace,Common,1,False
+Shatterpoint,LOF,343,Hyperspace,Uncommon,1,False
+Exegol Patroller,LOF,344,Hyperspace,Common,1,False
+Sith Legionnaire,LOF,345,Hyperspace,Uncommon,1,False
+Vanee,LOF,346,Hyperspace,Uncommon,1,False
+Captain Enoch,LOF,347,Hyperspace,Rare,1,False
+Knight of Ren,LOF,348,Hyperspace,Common,1,False
+Praetorian Guard,LOF,349,Hyperspace,Common,1,False
+Drengir Spawn,LOF,350,Hyperspace,Rare,1,False
+Eighth Brother,LOF,351,Hyperspace,Uncommon,1,False
+Eye of Sion,LOF,352,Hyperspace,Rare,1,False
+Supremacy,LOF,353,Hyperspace,Legendary,1,False
+Inquisitor's Lightsaber,LOF,354,Hyperspace,Common,1,False
+Craving Power,LOF,355,Hyperspace,Rare,1,False
+Point Rain Reclaimer,LOF,356,Hyperspace,Common,1,False
+Gungi,LOF,357,Hyperspace,Uncommon,1,False
+Jedi Consular,LOF,358,Hyperspace,Common,1,False
+Lor San Tekka,LOF,359,Hyperspace,Uncommon,1,False
+Obi-Wan Kenobi,LOF,360,Hyperspace,Special,1,False
+Eeth Koth,LOF,361,Hyperspace,Rare,1,False
+Leia Organa,LOF,362,Hyperspace,Legendary,1,False
+Paladin Training Corvette,LOF,363,Hyperspace,Common,1,False
+Kelleran Beq,LOF,364,Hyperspace,Uncommon,1,False
+Yoda,LOF,365,Hyperspace,Legendary,1,False
+Yoda's Lightsaber,LOF,366,Hyperspace,Rare,1,False
+Following the Path,LOF,367,Hyperspace,Common,1,False
+Luminous Beings,LOF,368,Hyperspace,Rare,1,False
+Oppo Rancisis,LOF,369,Hyperspace,Legendary,1,False
+Acclamator Assault Ship,LOF,370,Hyperspace,Uncommon,1,False
+Village Tender,LOF,371,Hyperspace,Common,1,False
+Malakili,LOF,372,Hyperspace,Rare,1,False
+Mynock,LOF,373,Hyperspace,Common,1,False
+Hive Defense Wing,LOF,374,Hyperspace,Common,1,False
+Maz Kanata,LOF,375,Hyperspace,Uncommon,1,False
+Outer Rim Mystic,LOF,376,Hyperspace,Common,1,False
+Jedi Temple Guards,LOF,377,Hyperspace,Common,1,False
+Kaadu,LOF,378,Hyperspace,Common,1,False
+Dagoyan Master,LOF,379,Hyperspace,Uncommon,1,False
+Relic Scavenger,LOF,380,Hyperspace,Common,1,False
+Sifo-Dyas,LOF,381,Hyperspace,Rare,1,False
+Terentatek,LOF,382,Hyperspace,Common,1,False
+Hyperspace Wayfarer,LOF,383,Hyperspace,Common,1,False
+Trident Assault Ship,LOF,384,Hyperspace,Common,1,False
+The Purrgil King,LOF,385,Hyperspace,Rare,1,False
+Pillio Star Compass,LOF,386,Hyperspace,Uncommon,1,False
+Directed by the Force,LOF,387,Hyperspace,Uncommon,1,False
+Niman Strike,LOF,388,Hyperspace,Uncommon,1,False
+The Burden of Masters,LOF,389,Hyperspace,Rare,1,False
+Overpower,LOF,390,Hyperspace,Common,1,False
+Rampage,LOF,391,Hyperspace,Uncommon,1,False
+Protect the Pod,LOF,392,Hyperspace,Common,1,False
+Acolyte of the Beyond,LOF,393,Hyperspace,Common,1,False
+HK-47,LOF,394,Hyperspace,Legendary,1,False
+Strikeship,LOF,395,Hyperspace,Common,1,False
+Grand Inquisitor,LOF,396,Hyperspace,Legendary,1,False
+Purge Trooper,LOF,397,Hyperspace,Common,1,False
+Heavy Missile Gunship,LOF,398,Hyperspace,Uncommon,1,False
+Scythe,LOF,399,Hyperspace,Rare,1,False
+Thralls of the Coven,LOF,400,Hyperspace,Common,1,False
+Savage Opress,LOF,401,Hyperspace,Uncommon,1,False
+Sith Holocron,LOF,402,Hyperspace,Rare,1,False
+Battle Fury,LOF,403,Hyperspace,Uncommon,1,False
+Darth Maul's Lightsaber,LOF,404,Hyperspace,Special,1,False
+Death Field,LOF,405,Hyperspace,Rare,1,False
+Adi Gallia,LOF,406,Hyperspace,Rare,1,False
+Attuned Fyrnock,LOF,407,Hyperspace,Common,1,False
+Jedi Starfighter,LOF,408,Hyperspace,Common,1,False
+Jedi Knight,LOF,409,Hyperspace,Common,1,False
+Ki-Adi-Mundi,LOF,410,Hyperspace,Uncommon,1,False
+Kit Fisto's Aethersprite,LOF,411,Hyperspace,Rare,1,False
+Rey,LOF,412,Hyperspace,Rare,1,False
+Mace Windu,LOF,413,Hyperspace,Uncommon,1,False
+Cin Drallig,LOF,414,Hyperspace,Legendary,1,False
+Knight's Saber,LOF,415,Hyperspace,Common,1,False
+Focus Determines Reality,LOF,416,Hyperspace,Uncommon,1,False
+Paz Vizsla,LOF,417,Hyperspace,Rare,1,False
+Witch of the Mist,LOF,418,Hyperspace,Common,1,False
+DRK-1 Probe Droid,LOF,419,Hyperspace,Common,1,False
+Infused Brawler,LOF,420,Hyperspace,Uncommon,1,False
+Cartel Interceptor,LOF,421,Hyperspace,Common,1,False
+Hyena Bomber,LOF,422,Hyperspace,Common,1,False
+Jedi in Hiding,LOF,423,Hyperspace,Common,1,False
+Merrin,LOF,424,Hyperspace,Uncommon,1,False
+Tuk'ata,LOF,425,Hyperspace,Common,1,False
+Hunting Nexu,LOF,426,Hyperspace,Common,1,False
+Quinlan Vos,LOF,427,Hyperspace,Uncommon,1,False
+Wampa,LOF,428,Hyperspace,Common,1,False
+Asajj Ventress,LOF,429,Hyperspace,Uncommon,1,False
+Blockade Runner,LOF,430,Hyperspace,Uncommon,1,False
+Saesee Tiin,LOF,431,Hyperspace,Uncommon,1,False
+Ravenous Rathtar,LOF,432,Hyperspace,Common,1,False
+Invasion Control Ship,LOF,433,Hyperspace,Rare,1,False
+Bendu,LOF,434,Hyperspace,Legendary,1,False
+Heavy Blaster Cannon,LOF,435,Hyperspace,Rare,1,False
+Sorcerous Blast,LOF,436,Hyperspace,Common,1,False
+Unleash Rage,LOF,437,Hyperspace,Common,1,False
+Ataru Onslaught,LOF,438,Hyperspace,Uncommon,1,False
+Do or Do Not,LOF,439,Hyperspace,Common,1,False
+Lightsaber Throw,LOF,440,Hyperspace,Uncommon,1,False
+Time of Crisis,LOF,441,Hyperspace,Rare,1,False
+Adept of Anger,LOF,442,Hyperspace,Common,1,False
+Aurra Sing,LOF,443,Hyperspace,Uncommon,1,False
+Deceptive Shade,LOF,444,Hyperspace,Rare,1,False
+Banking Clan Shuttle,LOF,445,Hyperspace,Common,1,False
+Nihil Marauder,LOF,446,Hyperspace,Common,1,False
+Shin Hati,LOF,447,Hyperspace,Uncommon,1,False
+Second Sister,LOF,448,Hyperspace,Rare,1,False
+Baylan Skoll,LOF,449,Hyperspace,Uncommon,1,False
+Marchion Ro,LOF,450,Hyperspace,Legendary,1,False
+Corrupted Saber,LOF,451,Hyperspace,Common,1,False
+As I Have Foreseen,LOF,452,Hyperspace,Rare,1,False
+Liberated by Darkness,LOF,453,Hyperspace,Rare,1,False
+Anakin Skywalker,LOF,454,Hyperspace,Special,1,False
+BD-1,LOF,455,Hyperspace,Uncommon,1,False
+N-1 Starfighter,LOF,456,Hyperspace,Common,1,False
+Youngling Padawan,LOF,457,Hyperspace,Common,1,False
+J-Type Nubian Starship,LOF,458,Hyperspace,Common,1,False
+Vernestra Rwoh,LOF,459,Hyperspace,Rare,1,False
+Jedi Sentinel,LOF,460,Hyperspace,Common,1,False
+Qui-Gon Jinn's Aethersprite,LOF,461,Hyperspace,Special,1,False
+Stinger Mantis,LOF,462,Hyperspace,Uncommon,1,False
+Depa Billaba,LOF,463,Hyperspace,Uncommon,1,False
+Qui-Gon Jinn,LOF,464,Hyperspace,Legendary,1,False
+Qui-Gon Jinn's Lightsaber,LOF,465,Hyperspace,Special,1,False
+Mind Trick,LOF,466,Hyperspace,Rare,1,False
+Premonition of Doom,LOF,467,Hyperspace,Rare,1,False
+Zuckuss,LOF,468,Hyperspace,Legendary,1,False
+Force Speed,LOF,469,Hyperspace,Uncommon,1,False
+Babu Frik,LOF,470,Hyperspace,Rare,1,False
+Loth-Cat,LOF,471,Hyperspace,Common,1,False
+Mysterious Hermit,LOF,472,Hyperspace,Common,1,False
+Tusken Tracker,LOF,473,Hyperspace,Common,1,False
+Charging Phillak,LOF,474,Hyperspace,Common,1,False
+Dooku,LOF,475,Hyperspace,Uncommon,1,False
+Life Wind Sage,LOF,476,Hyperspace,Common,1,False
+The Legacy Run,LOF,477,Hyperspace,Legendary,1,False
+Sorcerers of Tund,LOF,478,Hyperspace,Common,1,False
+Ascension Cable,LOF,479,Hyperspace,Common,1,False
+Disturbance in the Force,LOF,480,Hyperspace,Common,1,False
+Force Slow,LOF,481,Hyperspace,Common,1,False
+Impossible Escape,LOF,482,Hyperspace,Uncommon,1,False
+Psychometry,LOF,483,Hyperspace,Rare,1,False
+Shien Flurry,LOF,484,Hyperspace,Uncommon,1,False
+Trust Your Instincts,LOF,485,Hyperspace,Rare,1,False
+A Precarious Predicament,LOF,486,Hyperspace,Uncommon,1,False
+Force Illusion,LOF,487,Hyperspace,Uncommon,1,False
+Pounce,LOF,488,Hyperspace,Common,1,False
+Three Lessons,LOF,489,Hyperspace,Uncommon,1,False
+Tip the Scale,LOF,490,Hyperspace,Common,1,False
+The Will of the Force,LOF,491,Hyperspace,Common,1,False
+Forged Starfighter,LOF,492,Hyperspace,Common,1,False
+Kylo Ren,LOF,493,Hyperspace,Uncommon,1,False
+Fallen Jedi,LOF,494,Hyperspace,Common,1,False
+Darth Tyranus,LOF,495,Hyperspace,Special,1,False
+Sandtrooper Cavalry,LOF,496,Hyperspace,Common,1,False
+Scimitar,LOF,497,Hyperspace,Special,1,False
+Darth Malak,LOF,498,Hyperspace,Legendary,1,False
+HK-87 Assassin Droid,LOF,499,Hyperspace,Uncommon,1,False
+Army of the Dead,LOF,500,Hyperspace,Common,1,False
+The Son,LOF,501,Hyperspace,Rare,1,False
+Darth Revan's Lightsabers,LOF,502,Hyperspace,Rare,1,False
+Consumed by the Dark Side,LOF,503,Hyperspace,Common,1,False
+Flight of the Inquisitor,LOF,504,Hyperspace,Uncommon,1,False
+In the Shadows,LOF,505,Hyperspace,Common,1,False
+Refugee of the Path,LOF,506,Hyperspace,Common,1,False
+Caretaker Matron,LOF,507,Hyperspace,Uncommon,1,False
+Jedi Vector,LOF,508,Hyperspace,Uncommon,1,False
+Vulptex,LOF,509,Hyperspace,Common,1,False
+Grogu,LOF,510,Hyperspace,Legendary,1,False
+Gungan Warrior,LOF,511,Hyperspace,Common,1,False
+Jocasta Nu,LOF,512,Hyperspace,Uncommon,1,False
+Luke Skywalker,LOF,513,Hyperspace,Rare,1,False
+Medical Frigate,LOF,514,Hyperspace,Common,1,False
+Blue Squadron Assault Wing,LOF,515,Hyperspace,Common,1,False
+The Daughter,LOF,516,Hyperspace,Rare,1,False
+Longbeam Cruiser,LOF,517,Hyperspace,Common,1,False
+Porg,LOF,518,Hyperspace,Common,1,False
+Curious Flock,LOF,519,Hyperspace,Common,1,False
+Gifted Urchin,LOF,520,Hyperspace,Common,1,False
+Kowakian Monkey-Lizard,LOF,521,Hyperspace,Common,1,False
+Peli Motto,LOF,522,Hyperspace,Uncommon,1,False
+Ravening Gundark,LOF,523,Hyperspace,Common,1,False
+The Father,LOF,524,Hyperspace,Legendary,1,False
+Constructed Lightsaber,LOF,525,Hyperspace,Legendary,1,False
+Go Into Hiding,LOF,526,Hyperspace,Common,1,False
+Last Words,LOF,527,Hyperspace,Common,1,False
+It's Worse,LOF,528,Hyperspace,Common,1,False
