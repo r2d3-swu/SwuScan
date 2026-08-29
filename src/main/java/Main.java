@@ -14,6 +14,7 @@ import java.util.*;
 public class Main {
     private static final int WEBCAM_ID = ConfigUtil.getConfigValueAsInt("WEBCAM_ID");
     private static final String LOG_LEVEL = ConfigUtil.getConfigValue("LOG_LEVEL");
+    private static final boolean TREAT_ALL_AS_NORMAL = Boolean.parseBoolean(ConfigUtil.getConfigValue("TREAT_ALL_AS_NORMAL"));
 
     private static final List<Integer> ZERO = List.of(96, 48);
     private static final List<Integer> ONE = List.of(97, 49);
@@ -34,10 +35,11 @@ public class Main {
     private static final String SCANNING_TEXT = "Scanning...";
     private static final String LOADING_TEXT = "Loading...";
     private static final String OPTIONS_TEXT_ENABLED = "? \n1(N)/2(H)/3(F)/4(HF) to add. \n0 to reset. 5 to add bulk";
+    private static final String OPTIONS_TEXT_ALL_NORMAL = "? \n1 to add. \n0 to reset. 5 to add bulk";
     private static final String OPTIONS_TEXT_DISABLED = "? \n1(N)/3(F) to add (HySp n/a). \n0 to reset. 5 to add bulk";
-    private static String optionsText = OPTIONS_TEXT_ENABLED;
+//    private static String optionsText = TREAT_ALL_AS_NORMAL ? OPTIONS_TEXT_ALL_NORMAL : OPTIONS_TEXT_ENABLED;
     private static int setId;
-    private static final List<String> SETS = List.of("ALL", "SOR", "SHD", "TWI", "JTL", "LOF");
+    private static final List<String> SETS = List.of("ALL", "SOR", "SHD", "TWI", "JTL", "LOF", "SEC", "LAW", "ASH");
 
 
     public static final List<String> PLAYABLE_SETS = SETS.stream().filter(s -> !Objects.equals(s, "ALL")).toList();
@@ -51,7 +53,7 @@ public class Main {
     private static Instant timeToDisplay = Instant.MIN;
     private static boolean debugMode = false;
     private static boolean bulkMode = false;
-    private static boolean disabledMode = false;
+    private static boolean hyperSpaceDisabledMode = false;
     private static final Map<Integer, Integer> bulkAmount = new HashMap<>();
 
     private static int selected = 0;
@@ -88,8 +90,8 @@ public class Main {
                 // Perform OCR every second
                 // Add the display text to the frame with a black box behind it
 
-                disabledMode = false;
-                optionsText = OPTIONS_TEXT_ENABLED;
+                hyperSpaceDisabledMode = false;
+                String optionsText = TREAT_ALL_AS_NORMAL ? OPTIONS_TEXT_ALL_NORMAL : OPTIONS_TEXT_ENABLED;
 
                 addTextToFrame(frame, displayText);
                 var key = HighGui.pressedKey;
@@ -154,7 +156,7 @@ public class Main {
                     foundCard = null;
                     displayText = SCANNING_TEXT;
                 }
-                if (TWO.contains(key) && foundCard != null && !disabledMode) {
+                if (TWO.contains(key) && foundCard != null && !hyperSpaceDisabledMode && !TREAT_ALL_AS_NORMAL) {
                     if (displayText.equals(BULK_TEXT)) {
                         logTempText("Added 2 regular " + foundCard.getUniqueDisplayName() + " to csv");
                         saveCard(foundCard, false, 2);
@@ -166,7 +168,7 @@ public class Main {
                         displayText = SCANNING_TEXT;
                     }
                 }
-                if (THREE.contains(key) && foundCard != null) {
+                if (THREE.contains(key) && foundCard != null && !TREAT_ALL_AS_NORMAL) {
                     if (displayText.equals(BULK_TEXT)) {
                         logTempText("Added 3 regular " + foundCard.getUniqueDisplayName() + " to csv");
                         saveCard(foundCard, false, 3);
@@ -177,7 +179,7 @@ public class Main {
                     foundCard = null;
                     displayText = SCANNING_TEXT;
                 }
-                if (FOUR.contains(key) && foundCard != null && !disabledMode) {
+                if (FOUR.contains(key) && foundCard != null && !hyperSpaceDisabledMode && !TREAT_ALL_AS_NORMAL) {
                     if (displayText.equals(BULK_TEXT)) {
                         logTempText("Added 4 regular " + foundCard.getUniqueDisplayName() + " to csv");
                         saveCard(foundCard, false, 4);
@@ -245,6 +247,11 @@ public class Main {
                             displayText = SCANNING_TEXT;
                             selected = 0;
                         }
+                    } else {
+                        logTempText("Added regular " + foundCard.getUniqueDisplayName() + " to csv");
+                        saveCard(foundCard, false, 1);
+                        foundCard = null;
+                        displayText = SCANNING_TEXT;
                     }
                 }
 

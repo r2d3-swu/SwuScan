@@ -39,6 +39,6 @@ Note: only tested on windows
 * Change "SET" in and run generate_swudb_input.py
 * Go to swudb.com (account with empty collection)
 * Take src/main/resources/<set>_full.csv file and import bulk in swudb.com
-* Download human readable collection and name it "human_readable_full_collection_<set>.csv"
+* Download human readable collection and name it "human_readable_full_collection_<set>.csv" Remove hyperspace/hyperfoil cards.
 * Change "SET" in and run download_images.py
 * Add set to "SETS" variable in Main.java
