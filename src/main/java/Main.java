@@ -39,7 +39,7 @@ public class Main {
     private static final String OPTIONS_TEXT_DISABLED = "? \n1(N)/3(F) to add (HySp n/a). \n0 to reset. 5 to add bulk";
 //    private static String optionsText = TREAT_ALL_AS_NORMAL ? OPTIONS_TEXT_ALL_NORMAL : OPTIONS_TEXT_ENABLED;
     private static int setId;
-    private static final List<String> SETS = List.of("ALL", "SOR", "SHD", "TWI", "JTL", "LOF", "SEC", "LAW", "ASH");
+    private static final List<String> SETS = List.of("ALL", "SOR", "SHD", "TWI", "JTL", "LOF", "SEC", "LAW", "ASH", "HMW");
 
 
     public static final List<String> PLAYABLE_SETS = SETS.stream().filter(s -> !Objects.equals(s, "ALL")).toList();

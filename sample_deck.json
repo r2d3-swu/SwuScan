@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "name": "Sample deck",
+    "author": "R2D3"
+  },
+  "leader": {
+    "id": "SHD_001",
+    "count": 1
+  },
+  "base": {
+    "id": "JTL_023",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "ASH_078",
+      "count": 3
+    },
+    {
+      "id": "ASH_051",
+      "count": 3
+    },
+    {
+      "id": "ASH_048",
+      "count": 3
+    },
+    {
+      "id": "LAW_168",
+      "count": 3
+    },
+    {
+      "id": "ASH_140",
+      "count": 2
+    },
+    {
+      "id": "SHD_129",
+      "count": 2
+    },
+    {
+      "id": "LOF_061",
+      "count": 3
+    },
+    {
+      "id": "LOF_034",
+      "count": 1
+    },
+    {
+      "id": "LAW_118",
+      "count": 3
+    },
+    {
+      "id": "SEC_069",
+      "count": 3
+    },
+    {
+      "id": "LAW_038",
+      "count": 3
+    },
+    {
+      "id": "ASH_092",
+      "count": 2
+    },
+    {
+      "id": "JTL_033",
+      "count": 3
+    },
+    {
+      "id": "TWI_036",
+      "count": 3
+    },
+    {
+      "id": "ASH_134",
+      "count": 3
+    },
+    {
+      "id": "LAW_113",
+      "count": 3
+    },
+    {
+      "id": "JTL_065",
+      "count": 3
+    },
+    {
+      "id": "ASH_087",
+      "count": 3
+    },
+    {
+      "id": "LAW_129",
+      "count": 1
+    }
+  ],
+  "sideboard": [
+    {
+      "id": "HMW_084",
+      "count": 1
+    },
+    {
+      "id": "SHD_079",
+      "count": 3
+    },
+    {
+      "id": "SHD_262",
+      "count": 3
+    },
+    {
+      "id": "JTL_078",
+      "count": 3
+    }
+  ]
+}
