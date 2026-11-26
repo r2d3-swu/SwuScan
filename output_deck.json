@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "name": "Sample deck",
+    "author": "R2D3"
+  },
+  "leader": {
+    "id": "SHD_001",
+    "count": 1
+  },
+  "base": {
+    "id": "JTL_023",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "HMW_038",
+      "count": 1
+    },
+    {
+      "id": "HMW_072",
+      "count": 1
+    },
+    {
+      "id": "HMW_075",
+      "count": 1
+    },
+    {
+      "id": "HMW_077",
+      "count": 1
+    },
+    {
+      "id": "HMW_087",
+      "count": 2
+    },
+    {
+      "id": "HMW_089",
+      "count": 1
+    },
+    {
+      "id": "HMW_092",
+      "count": 2
+    },
+    {
+      "id": "HMW_097",
+      "count": 2
+    },
+    {
+      "id": "HMW_100",
+      "count": 1
+    },
+    {
+      "id": "HMW_101",
+      "count": 1
+    },
+    {
+      "id": "HMW_120",
+      "count": 1
+    },
+    {
+      "id": "HMW_135",
+      "count": 1
+    },
+    {
+      "id": "HMW_137",
+      "count": 1
+    },
+    {
+      "id": "HMW_139",
+      "count": 3
+    },
+    {
+      "id": "HMW_142",
+      "count": 1
+    },
+    {
+      "id": "HMW_146",
+      "count": 1
+    },
+    {
+      "id": "HMW_150",
+      "count": 2
+    },
+    {
+      "id": "HMW_239",
+      "count": 2
+    },
+    {
+      "id": "HMW_256",
+      "count": 1
+    },
+    {
+      "id": "HMW_262",
+      "count": 1
+    },
+    {
+      "id": "HMW_266",
+      "count": 1
+    },
+    {
+      "id": "HMW_267",
+      "count": 1
+    }
+  ],
+  "sideboard": []
+}

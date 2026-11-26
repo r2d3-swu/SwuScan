@@ -5,12 +5,12 @@ from pathlib import Path
 from PIL import Image
 import os
 
-SET="LOF"
+SET="HMW"
 PATH="../src/main/resources/"
 URL="https://swudb.com/images/cards/"+SET+"/"
 CSV=PATH+"human_readable_full_collection_"+SET.lower()+".csv"
 # CSV="human_readable_test.csv"
-DELAY=0.5
+DELAY=0.1
 
 def get_image():
     df = pd.read_csv(CSV)
