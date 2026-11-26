@@ -1,0 +1,54 @@
+name: Publish SwuScan card data
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - src/main/resources/human_readable_full_collection_*.csv
+      - src/main/resources/images/**
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish-card-data-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the source commit
+        uses: actions/checkout@v7
+        with:
+          ref: ${{ github.sha }}
+          persist-credentials: false
+
+      - name: Build and validate the Normal-only data bundle
+        run: >-
+          python3 scripts/package_card_data.py
+          --source-commit "${GITHUB_SHA}"
+          --output "${RUNNER_TEMP}/swuscan-card-data-${GITHUB_SHA}.zip"
+
+      - name: Publish the commit-versioned data release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          tag="swuscan-data-${GITHUB_SHA}"
+          asset="${RUNNER_TEMP}/swuscan-card-data-${GITHUB_SHA}.zip"
+          title="SwuScan card data ${GITHUB_SHA:0:12}"
+          notes="Normal-only card data generated from desktop commit ${GITHUB_SHA}."
+
+          if gh release view "$tag" --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1; then
+            gh release upload "$tag" "$asset" --clobber --repo "$GITHUB_REPOSITORY"
+            gh release edit "$tag" --latest --repo "$GITHUB_REPOSITORY"
+          else
+            gh release create "$tag" "$asset" \
+              --repo "$GITHUB_REPOSITORY" \
+              --target "$GITHUB_SHA" \
+              --title "$title" \
+              --notes "$notes" \
+              --latest
+          fi
